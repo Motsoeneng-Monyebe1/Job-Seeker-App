@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Job Seeker SA</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+<h1>💼 Job Seeker SA</h1>
+<p>Find jobs in South Africa</p>
+<input id="search" placeholder="Search e.g. Cashier, Driver">
+</header>
+<main id="jobs"></main>
+<script src="script.js"></script>
+</body>
+</html>
