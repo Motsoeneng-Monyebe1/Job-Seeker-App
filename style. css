@@ -1,9 +1,0 @@
-body{margin:0;font-family:Arial;background:#f5f7fb;color:#222}
-header{background:#0f172a;color:white;padding:20px;text-align:center}
-header h1{margin:0}
-#search{width:90%;max-width:400px;padding:12px;margin-top:15px;border-radius:10px;border:none}
-main{padding:15px}
-.job{background:white;padding:15px;margin-bottom:12px;border-radius:12px;box-shadow:0 2px 6px rgba(0,0,0,0.1)}
-.job h3{margin:0 0 5px;color:#0f172a}
-.job p{margin:3px 0;font-size:14px;color:#555}
-.job button{background:#16a34a;color:white;border:none;padding:8px 12px;border-radius:8px;margin-top:8px}
