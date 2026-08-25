@@ -17,7 +17,7 @@ location: "KZN, Cape Town, Gauteng",
 salary: "Learnership Stipend",
 type: "Learnership",
 closing: "28 Aug 2026",
-link: https://www.unitransafrica.com/careers/
+link:  "https://www.unitransafrica.com/careers/" 
 ref: "Grade 12 Required"
 }
 ] ;
