@@ -17,7 +17,7 @@ location: "KZN, Cape Town, Gauteng",
 salary: "Learnership Stipend",
 type: "Learnership",
 closing: "28 Aug 2026",
-link: "https://shandu.careertag.co.za/unitrans-truck-driver-learnership-opportunity-2026-grade-12-required/",
+link: "https://www.unitrans-truck-driver-learnership-opportunity-2026-grade-12-required/",
 ref: "Grade 12 Required"
 }
 ] ;
