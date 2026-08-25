@@ -27,21 +27,21 @@ ref: "Open Until Filled | Clear Criminal Record | Grade 12 + 2 Years Cashier",
 link: "https://fidelityservicesgroup.simplify.hr/"
 },
 {
-title: "Leerdaar Program / Learnership Programme 2027 - Ficksburg",
+title: "Leerdaar Program / Learnership 2027 - Ficksburg",
 company: "OVK (OOS Vrystaat Kaap Bedryf)",
 location: "Ficksburg, Free State",
 salary: "Learnership",
 type: "OVK Handel | Contract",
-ref: "Closing: 30 Sep 2026 | Uitstekende Loopbaan vir Matrieks! | Ficksburg",
+ref: "Closing: 30 Sep 2026 | Uitstekende Loopbaan vir Matrieks!",
 link: "https://www.ovk.co.za/"
 },
 {
-title: "Leerdaar Program / Learnership Programme 2027 - Steynsrus",
+title: "Leerdaar Program / Learnership 2027 - Steynsrus",
 company: "OVK (OOS Vrystaat Kaap Bedryf)",
 location: "Steynsrus, Free State",
 salary: "Learnership",
 type: "OVK Handel | Contract",
-ref: "Closing: 30 Sep 2026 | Uitstekende Loopbaan vir Matrieks! | Steynsrus",
+ref: "Closing: 30 Sep 2026 | Uitstekende Loopbaan vir Matrieks!",
 link: "https://www.ovk.co.za/"
 },
 {
@@ -52,6 +52,15 @@ salary: "Permanent",
 type: "Retail Marketing - URGENT Closing 27 Aug 2026",
 ref: "Posted 21 Aug 2026 | Closing TOMORROW!",
 link: "https://vkb.simplify.hr/"
+},
+{
+title: "Prepper - Pedros Bethlehem",
+company: "Pedros Flame Grilled Chicken",
+location: "Bethlehem, Free State",
+salary: "Permanent",
+type: "Fast Food / Kitchen Staff",
+ref: "Posted 20 June 2026 | Closing: 31 Aug 2026 | Grade 10-12",
+link: "https://pedroschicken.com/careers/"
 }
 ];
 
