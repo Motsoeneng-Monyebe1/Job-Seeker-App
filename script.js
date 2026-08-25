@@ -34,3 +34,17 @@ container.innerHTML+=`<div style="border:1px solid #ddd;padding:15px;margin:10px
 });
 }
 showJobs();
+} 
+] ;
+link: "https://www.unitransafrica.com/careers/",
+},
+{
+title: "Teller - Bethlehem",
+company: "Fidelity Services Group",
+location: "Bethlehem, Free State",
+salary: "Permanent",
+type: "Permanent | Operations | Closing: Open Until Filled",
+ref: "Clear Criminal Record | Grade 12 Required",
+link: "https://fidelityservicesgroup.simplify.hr/"
+}
+];
