@@ -4,8 +4,8 @@ title: "Administrative Clerk (WARMS)",
 company: "Department of Water & Sanitation",
 location: "Bloemfontein",
 salary: "R237 453 per year",
-type: "Full-time | Admin | Closing: 28 Aug 2026",
-ref: "Ref No: 270826/06 | Grade 12 + Computer Literacy",
+type: "Admin",
+ref: "Ref No: 270826/06 | Closing: 28 Aug 2026 | Grade 12 + Computer Literacy",
 link: "https://www.dws.gov.za/vacancies/"
 },
 {
@@ -13,8 +13,8 @@ title: "Truck Driver Learnership 2026",
 company: "Unitrans",
 location: "KZN, Cape Town, Gauteng",
 salary: "Learnership",
-type: "Learnership | Logistics | Closing: 28 Aug 2026",
-ref: "Grade 12 Required | No Experience Needed",
+type: "Logistics",
+ref: "Closing: 28 Aug 2026 | Grade 12 | No Experience Needed",
 link: "https://www.unitransafrica.com/careers/"
 },
 {
@@ -22,8 +22,8 @@ title: "Teller - Bethlehem",
 company: "Fidelity Services Group",
 location: "Bethlehem, Free State",
 salary: "Permanent",
-type: "Permanent | Operations | Open Until Filled",
-ref: "Clear Criminal Record | Grade 12 | 2 Years Cashier Experience",
+type: "Operations",
+ref: "Open Until Filled | Clear Criminal Record | Grade 12 + 2 Years Cashier",
 link: "https://fidelityservicesgroup.simplify.hr/"
 },
 {
@@ -31,9 +31,18 @@ title: "Learner Programme / Learnership Programme 2027",
 company: "OVK",
 location: "Fouriesburg, Free State",
 salary: "Contract",
-type: "Learnership | Handel Noord | Closing: 30 Sep 2026",
-ref: "Vrystaat | Fouriesburg | Kontrak",
+type: "Handel Noord",
+ref: "Closing: 30 Sep 2026 | Vrystaat | Agriculture Trading",
 link: "https://www.ovk.co.za/"
+},
+{
+title: "Junior Branch Marketer - VKB Retail, Bethlehem",
+company: "VKB Group",
+location: "Bethlehem, Free State",
+salary: "Permanent",
+type: "Retail Marketing - URGENT Closing 27 Aug 2026",
+ref: "Posted 21 Aug 2026 | Bethlehem | Marketing",
+link: "https://vkb.simplify.hr/"
 }
 ];
 
