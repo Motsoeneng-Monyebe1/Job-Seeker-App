@@ -27,12 +27,21 @@ ref: "Open Until Filled | Clear Criminal Record | Grade 12 + 2 Years Cashier",
 link: "https://fidelityservicesgroup.simplify.hr/"
 },
 {
-title: "Learner Programme / Learnership Programme 2027",
-company: "OVK",
-location: "Fouriesburg, Free State",
-salary: "Contract",
-type: "Handel Noord",
-ref: "Closing: 30 Sep 2026 | Vrystaat | Agriculture Trading",
+title: "Leerdaar Program / Learnership Programme 2027 - Ficksburg",
+company: "OVK (OOS Vrystaat Kaap Bedryf)",
+location: "Ficksburg, Free State",
+salary: "Learnership",
+type: "OVK Handel | Contract",
+ref: "Closing: 30 Sep 2026 | Uitstekende Loopbaan vir Matrieks! | Ficksburg",
+link: "https://www.ovk.co.za/"
+},
+{
+title: "Leerdaar Program / Learnership Programme 2027 - Steynsrus",
+company: "OVK (OOS Vrystaat Kaap Bedryf)",
+location: "Steynsrus, Free State",
+salary: "Learnership",
+type: "OVK Handel | Contract",
+ref: "Closing: 30 Sep 2026 | Uitstekende Loopbaan vir Matrieks! | Steynsrus",
 link: "https://www.ovk.co.za/"
 },
 {
@@ -41,7 +50,7 @@ company: "VKB Group",
 location: "Bethlehem, Free State",
 salary: "Permanent",
 type: "Retail Marketing - URGENT Closing 27 Aug 2026",
-ref: "Posted 21 Aug 2026 | Bethlehem | Marketing",
+ref: "Posted 21 Aug 2026 | Closing TOMORROW!",
 link: "https://vkb.simplify.hr/"
 }
 ];
