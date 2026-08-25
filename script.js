@@ -25,6 +25,15 @@ salary: "Permanent",
 type: "Permanent | Operations | Open Until Filled",
 ref: "Clear Criminal Record | Grade 12 | 2 Years Cashier Experience",
 link: "https://fidelityservicesgroup.simplify.hr/"
+},
+{
+title: "Learner Programme / Learnership Programme 2027",
+company: "OVK",
+location: "Fouriesburg, Free State",
+salary: "Contract",
+type: "Learnership | Handel Noord | Closing: 30 Sep 2026",
+ref: "Vrystaat | Fouriesburg | Kontrak",
+link: "https://www.ovk.co.za/"
 }
 ];
 
