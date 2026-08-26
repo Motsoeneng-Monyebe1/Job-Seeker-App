@@ -156,8 +156,6 @@ link: "https://www.vkb.co.za/"
     verified: "✅ Verified - No Fee"
   }
 ];
-
-];
  function showJobs(){
 let container=document.getElementById("jobs") || document.getElementById("jobs-container");
 if(!container){
