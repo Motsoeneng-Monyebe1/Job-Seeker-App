@@ -143,8 +143,8 @@ link: "https://www.vkb.co.za/"
       ref: "AO-2345 | Closing 30 Sept 2026",
       verified: "✅ Verified - No Scam"
     }
-
-function showJobs(){
+];
+ function showJobs(){
 let container=document.getElementById("jobs") || document.getElementById("jobs-container");
 if(!container){
 container=document.createElement("div");
