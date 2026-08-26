@@ -1,55 +1,144 @@
-const jobs = [
-  {
-    id: 10,
-    title: "Fire Fighter (50 Posts) - URGENT!",
-    company: "NCC Group Wildfires",
-    location: "Various Bases - Western Cape",
-    type: "Fixed Term",
-    salary: "R13,000 per month",
-    closing: "26 August 2026 - TODAY!",
-    ref: "Ref: BCS/Fire/02/2026 | Oct 2026-Sep 2027",
-    badge: "🔥 50 JOBS - CLOSING TODAY",
-    description: "NCC Group is hiring 50 Fire Fighters for wildland fire-fighting. Must pass 4.8km pack test with 20kg in 45min. Shift + standby.",
-    link: "mailto:recruitment@ncc-group.co.za?subject=BCS/Fire/02/2026",
-    urgent: true
-  },
-  {id:9,title:"Systems Controller - Qpro Feeds",company:"VKB Group / Qpro Feeds",location:"Bethlehem, Free State",type:"Permanent",salary:"Market Related",closing:"28 August 2026",ref:"VKB Bethlehem",badge:"IT / SYSTEMS",description:"Systems Controller for Qpro Feeds in Bethlehem.",link:"#"},
-  {id:8,title:"General Worker - VKB Retail",company:"VKB Group",location:"Villiers, Free State",type:"Permanent",salary:"Entry Level",closing:"29 August 2026",ref:"VKB Villiers",badge:"GRADE 12",description:"General Worker at VKB Retail Villiers.",link:"#"},
-  {id:7,title:"Cashier - VKB Retail",company:"VKB Group",location:"Frankfort, Free State",type:"Permanent",salary:"Retail",closing:"30 August 2026",ref:"VKB",badge:"RETAIL",description:"Cashier position at VKB Retail.",link:"#"},
-  {id:6,title:"Admin Clerk",company:"VKB Group",location:"Reitz, Free State",type:"Permanent",salary:"Admin",closing:"30 August 2026",ref:"VKB",badge:"ADMIN",description:"Admin Clerk support.",link:"#"},
-  {id:5,title:"Shop Assistant",company:"VKB Group",location:"Memel, Free State",type:"Permanent",salary:"Retail",closing:"31 August 2026",ref:"VKB",badge:"RETAIL",description:"Shop Assistant role.",link:"#"},
-  {id:4,title:"Forklift Operator",company:"VKB Group",location:"Bethlehem",type:"Permanent",salary:"Skilled",closing:"31 August 2026",ref:"VKB",badge:"OPERATOR",description:"Forklift Operator needed.",link:"#"},
-  {id:3,title:"Cleaner",company:"VKB Group",location:"Harrismith",type:"Permanent",salary:"Entry Level",closing:"31 August 2026",ref:"VKB",badge:"GRADE 10",description:"Cleaner vacancy.",link:"#"},
-  {id:2,title:"Security Guard",company:"VKB Group",location:"Bethlehem",type:"Contract",salary:"PSIRA",closing:"01 September 2026",ref:"VKB",badge:"SECURITY",description:"Security Guard PSIRA registered.",link:"#"},
-  {id:1,title:"Driver - Code 10",company:"VKB Group",location:"Free State",type:"Permanent",salary:"Driving",closing:"02 September 2026",ref:"VKB",badge:"DRIVER",description:"Code 10 Driver.",link:"#"}
+let jobs = [
+{
+title: "Administrative Clerk (Admin Clerk)",
+company: "Department of Water and Sanitation",
+location: "Bloemfontein",
+salary: "R237 453 per year",
+type: "Full-time | Admin",
+ref: "Ref No: 270826/06 | Grade 12 + Admin | DWS Bloem",
+link: "https://www.dws.gov.za/"
+},
+{
+title: "Truck Driver Learnership Programme",
+company: "Unitrans",
+location: "KZN, Cape Town, Gauteng - Nationwide",
+salary: "Learnership Stipend",
+type: "Learnership | Logistics",
+ref: "Grade 12 | No Experience | Unitrans 2026",
+link: "https://www.unitransafrica.com/"
+},
+{
+title: "Teller - Bethlehem",
+company: "Fidelity Services Group",
+location: "Bethlehem, Free State",
+salary: "Permanent",
+type: "Permanent | Operations",
+ref: "Clear Criminal Record | Grade 12 | 2 Years Cashier | Fidelity",
+link: "https://fidelityservicesgroup.simplify.hr/"
+},
+{
+title: "Learner Programme / Learnership 2026",
+company: "OVK",
+location: "Fouriesburg, Free State",
+salary: "Contract - Learnership",
+type: "Learnership | Handel Noord",
+ref: "Vrystaat | Fouriesburg | Kontrak | Grade 12 | OVK",
+link: "https://www.ovk.co.za/"
+},
+{
+title: "Systems Controller - Qpro Feeds",
+company: "VKB Group / Qpro Feeds",
+location: "Bethlehem, Free State",
+salary: "Market Related",
+type: "Permanent | IT",
+ref: "VKB Bethlehem | IT Degree | Systems",
+link: "https://www.vkb.co.za/"
+},
+{
+title: "General Worker - VKB Retail",
+company: "VKB Group",
+location: "Villiers, Free State",
+salary: "Entry Level",
+type: "Permanent | Grade 12",
+ref: "VKB Villiers | General Worker",
+link: "https://www.vkb.co.za/"
+},
+{
+title: "Cashier - VKB Retail",
+company: "VKB Group",
+location: "Frankfort, Free State",
+salary: "Retail",
+type: "Permanent | Retail",
+ref: "VKB Frankfort | Cashier",
+link: "https://www.vkb.co.za/"
+},
+{
+title: "Admin Clerk",
+company: "OVK Group",
+location: "Reitz, Free State",
+salary: "Admin - R9,500",
+type: "Permanent | Admin",
+ref: "OVK Reitz | Admin Clerk",
+link: "https://www.ovk.co.za/"
+},
+{
+title: "Shop Assistant",
+company: "OVK Retail",
+location: "Memel, Free State",
+salary: "Retail",
+type: "Permanent | Retail",
+ref: "OVK Memel | Shop Assistant",
+link: "https://www.ovk.co.za/"
+},
+{
+title: "Forklift Operator",
+company: "VKB Group",
+location: "Bethlehem, Free State",
+salary: "R12,000",
+type: "Permanent | Operator",
+ref: "VKB | Forklift License",
+link: "https://www.vkb.co.za/"
+},
+{
+title: "Cleaner",
+company: "Fidelity Services",
+location: "Harrismith, Free State",
+salary: "Entry Level - R7,000",
+type: "Permanent | Grade 10",
+ref: "Fidelity | Cleaner | Harrismith",
+link: "https://fidelityservicesgroup.simplify.hr/"
+},
+{
+title: "Security Guard",
+company: "Fidelity ADT",
+location: "Bethlehem, Free State",
+salary: "PSIRA Grade C",
+type: "Contract | Security",
+ref: "Fidelity ADT | PSIRA | Bethlehem",
+link: "https://fidelityservicesgroup.simplify.hr/"
+},
+{
+title: "Driver - Code 10 + PDP",
+company: "VKB Group",
+location: "Free State",
+salary: "Driving - R15,000",
+type: "Permanent | Driver",
+ref: "VKB | Code 10 | PDP",
+link: "https://www.vkb.co.za/"
+}
 ];
 
-function renderJobs(){
-  // Try EVERY possible container ID - this fixes white screen!
-  let c = document.getElementById("jobs-container") || document.getElementById("jobs") || document.getElementById("job-list") || document.querySelector(".jobs") || document.querySelector("main") || document.body;
-  if(!c){ console.log("No container"); return; }
-  // If we grabbed body or main, create a wrapper inside
-  let target = c;
-  if(c.tagName === "BODY" || c.tagName === "MAIN"){
-    target = document.createElement("div");
-    target.id = "jobs-container";
-    target.style.padding = "10px";
-    c.appendChild(target);
-  } else {
-    target.innerHTML = "";
-  }
-  
-  jobs.forEach(job=>{
-    const div=document.createElement("div");
-    div.style.cssText="border:2px solid #ddd;padding:15px;margin:10px 0;border-radius:12px;background:"+(job.urgent?"#fff3e0":"white")+";border-color:"+(job.urgent?"#ff6f00":"#ddd")+";font-family:sans-serif;";
-    div.innerHTML=`<span style="background:${job.urgent?"#ff6f00":"#2e7d32"};color:white;padding:4px 10px;border-radius:20px;font-size:12px;font-weight:bold;">${job.badge}</span><h3 style="margin:10px 0;color:#1b5e20;">${job.title}</h3><p><strong>${job.company}</strong> - ${job.location}</p><p>💰 ${job.salary} | 📄 ${job.type}</p><p>📅 Closing: <strong style="color:${job.urgent?"red":"black"}">${job.closing}</strong></p><p style="color:#555;">${job.description}</p><p><small>${job.ref}</small></p><a href="${job.link}" style="display:inline-block;background:#2e7d32;color:white;padding:10px 18px;border-radius:8px;text-decoration:none;margin-top:8px;font-weight:bold;">Apply Now</a>`;
-    target.appendChild(div);
-  });
-  const count=document.getElementById("job-count");
-  if(count) count.innerText=`${jobs.length} JOBS LIVE!`;
+function showJobs(){
+let container=document.getElementById("jobs") || document.getElementById("jobs-container");
+if(!container){
+container=document.createElement("div");
+container.id="jobs";
+container.style.padding="10px";
+document.body.appendChild(container);
 }
-
-document.addEventListener("DOMContentLoaded", renderJobs);
-setTimeout(renderJobs, 500);
-setTimeout(renderJobs, 1500);
-setTimeout(renderJobs, 3000);
+let html = `<h2 style="font-family:sans-serif;text-align:center;color:#1b5e20;">🔥 ${jobs.length} JOBS LIVE - Job Seeker SA 🔥</h2>`;
+jobs.forEach(job=>{
+html += `
+<div style="border:2px solid #2e7d32;padding:16px;margin:12px 0;border-radius:14px;background:white;font-family:sans-serif;">
+<h3 style="margin:0 0 8px 0;color:#1b5e20;">${job.title}</h3>
+<p style="margin:4px 0;"><b>${job.company}</b> - ${job.location}</p>
+<p style="margin:4px 0;color:#444;">💰 ${job.salary} | 📄 ${job.type}</p>
+<p style="font-size:13px;color:#666;margin:6px 0;">${job.ref}</p>
+<a href="${job.link}" target="_blank" rel="noopener" style="display:inline-block;background:#2e7d32;color:white;padding:12px 22px;border-radius:10px;text-decoration:none;font-weight:bold;margin-top:10px;cursor:pointer;position:relative;z-index:10;">✅ APPLY NOW</a>
+</div>`;
+});
+container.innerHTML=html;
+}
+document.addEventListener("DOMContentLoaded", showJobs);
+showJobs();
+setTimeout(showJobs, 800);
