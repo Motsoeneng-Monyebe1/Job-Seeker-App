@@ -142,8 +142,8 @@ link: "https://www.vkb.co.za/"
       link: "https://afgri.erecruit.co/candidateapp/Jobs/Browse",
       ref: "AO-2345 | Closing 30 Sept 2026",
       verified: "✅ Verified - No Scam"
-    }
-];{
+    },
+{
   "title": "Maintenance Operator Mechanical",
   "company": "Sasol",
   "location": "Sasolburg, FS",
