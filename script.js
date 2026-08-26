@@ -27,7 +27,7 @@ ref: "Open Until Filled | Clear Criminal Record | Grade 12 + 2 Years Cashier",
 link: "https://fidelityservicesgroup.simplify.hr/"
 },
 {
-title: "Leerdaar Program / Learnership 2027 - Ficksburg",
+title: "Leerdaar Program 2027 - Ficksburg",
 company: "OVK (OOS Vrystaat Kaap Bedryf)",
 location: "Ficksburg, Free State",
 salary: "Learnership",
@@ -36,7 +36,7 @@ ref: "Closing: 30 Sep 2026 | Uitstekende Loopbaan vir Matrieks!",
 link: "https://www.ovk.co.za/"
 },
 {
-title: "Leerdaar Program / Learnership 2027 - Steynsrus",
+title: "Leerdaar Program 2027 - Steynsrus",
 company: "OVK (OOS Vrystaat Kaap Bedryf)",
 location: "Steynsrus, Free State",
 salary: "Learnership",
@@ -49,8 +49,8 @@ title: "Junior Branch Marketer - VKB Retail, Bethlehem",
 company: "VKB Group",
 location: "Bethlehem, Free State",
 salary: "Permanent",
-type: "Retail Marketing - URGENT Closing 27 Aug 2026",
-ref: "Posted 21 Aug 2026 | Closing TOMORROW!",
+type: "Retail Marketing - Closing 27 Aug 2026",
+ref: "URGENT! Posted 21 Aug 2026",
 link: "https://vkb.simplify.hr/"
 },
 {
@@ -61,6 +61,24 @@ salary: "Permanent",
 type: "Fast Food / Kitchen Staff",
 ref: "Posted 20 June 2026 | Closing: 31 Aug 2026 | Grade 10-12",
 link: "https://pedroschicken.com/careers/"
+},
+{
+title: "General Worker - VKB Retail, Villiers",
+company: "VKB Group",
+location: "Villiers, Free State",
+salary: "Permanent",
+type: "Retail General Worker",
+ref: "Posted 24 Aug 2026 | Closing: 29 Aug 2026 | 5 Days Left!",
+link: "https://vkb.simplify.hr/"
+},
+{
+title: "Systems Controller - Qpro Feeds, Bethlehem",
+company: "VKB Group / Qpro Feeds",
+location: "Bethlehem, Free State",
+salary: "Permanent",
+type: "IT Systems - URGENT!",
+ref: "Posted 24 Aug 2026 | Closing: 28 Aug 2026 | 4 Days Left! | Degree in IT",
+link: "https://vkb.simplify.hr/"
 }
 ];
 
