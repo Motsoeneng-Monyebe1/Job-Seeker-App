@@ -153,6 +153,7 @@ link: "https://www.vkb.co.za/"
   "description": "To support with maintenance of mechanical / electro-mechanical systems, assist artisans, inspections, housekeeping and safety.",
   "source": "Sasol Official Careers",
   "apply_url": "https://www.sasol.com/careers - search Maintenance Operator Mechanical Sasolburg"
+    }
 ];
  function showJobs(){
 let container=document.getElementById("jobs") || document.getElementById("jobs-container");
