@@ -143,7 +143,7 @@ link: "https://www.vkb.co.za/"
       ref: "AO-2345 | Closing 30 Sept 2026",
       verified: "✅ Verified - No Scam"
     },
-{
+    {
   "title": "Maintenance Operator Mechanical",
   "company": "Sasol",
   "location": "Sasolburg, FS",
@@ -153,7 +153,7 @@ link: "https://www.vkb.co.za/"
   "description": "To support with maintenance of mechanical / electro-mechanical systems, assist artisans, inspections, housekeeping and safety.",
   "source": "Sasol Official Careers",
   "apply_url": "https://www.sasol.com/careers - search Maintenance Operator Mechanical Sasolburg"
-] ;
+];
  function showJobs(){
 let container=document.getElementById("jobs") || document.getElementById("jobs-container");
 if(!container){
