@@ -1,103 +1,158 @@
-let jobs = [
-{
-title: "Administrative Clerk (WARMS)",
-company: "Department of Water & Sanitation",
-location: "Bloemfontein",
-salary: "R237 453 per year",
-type: "Admin",
-ref: "Ref No: 270826/06 | Closing: 28 Aug 2026 | Grade 12 + Computer Literacy",
-link: "https://www.dws.gov.za/vacancies/"
-},
-{
-title: "Truck Driver Learnership 2026",
-company: "Unitrans",
-location: "KZN, Cape Town, Gauteng",
-salary: "Learnership",
-type: "Logistics",
-ref: "Closing: 28 Aug 2026 | Grade 12 | No Experience Needed",
-link: "https://www.unitransafrica.com/careers/"
-},
-{
-title: "Teller - Bethlehem",
-company: "Fidelity Services Group",
-location: "Bethlehem, Free State",
-salary: "Permanent",
-type: "Operations",
-ref: "Open Until Filled | Clear Criminal Record | Grade 12 + 2 Years Cashier",
-link: "https://fidelityservicesgroup.simplify.hr/"
-},
-{
-title: "Leerdaar Program 2027 - Ficksburg",
-company: "OVK (OOS Vrystaat Kaap Bedryf)",
-location: "Ficksburg, Free State",
-salary: "Learnership",
-type: "OVK Handel | Contract",
-ref: "Closing: 30 Sep 2026 | Uitstekende Loopbaan vir Matrieks!",
-link: "https://www.ovk.co.za/"
-},
-{
-title: "Leerdaar Program 2027 - Steynsrus",
-company: "OVK (OOS Vrystaat Kaap Bedryf)",
-location: "Steynsrus, Free State",
-salary: "Learnership",
-type: "OVK Handel | Contract",
-ref: "Closing: 30 Sep 2026 | Uitstekende Loopbaan vir Matrieks!",
-link: "https://www.ovk.co.za/"
-},
-{
-title: "Junior Branch Marketer - VKB Retail, Bethlehem",
-company: "VKB Group",
-location: "Bethlehem, Free State",
-salary: "Permanent",
-type: "Retail Marketing - Closing 27 Aug 2026",
-ref: "URGENT! Posted 21 Aug 2026",
-link: "https://vkb.simplify.hr/"
-},
-{
-title: "Prepper - Pedros Bethlehem",
-company: "Pedros Flame Grilled Chicken",
-location: "Bethlehem, Free State",
-salary: "Permanent",
-type: "Fast Food / Kitchen Staff",
-ref: "Posted 20 June 2026 | Closing: 31 Aug 2026 | Grade 10-12",
-link: "https://pedroschicken.com/careers/"
-},
-{
-title: "General Worker - VKB Retail, Villiers",
-company: "VKB Group",
-location: "Villiers, Free State",
-salary: "Permanent",
-type: "Retail General Worker",
-ref: "Posted 24 Aug 2026 | Closing: 29 Aug 2026 | 5 Days Left!",
-link: "https://vkb.simplify.hr/"
-},
-{
-title: "Systems Controller - Qpro Feeds, Bethlehem",
-company: "VKB Group / Qpro Feeds",
-location: "Bethlehem, Free State",
-salary: "Permanent",
-type: "IT Systems - URGENT!",
-ref: "Posted 24 Aug 2026 | Closing: 28 Aug 2026 | 4 Days Left! | Degree in IT",
-link: "https://vkb.simplify.hr/"
-}
+const jobs = [
+  {
+    id: 10,
+    title: "Fire Fighter (50 Posts) - URGENT!",
+    company: "NCC Group Wildfires",
+    location: "Various Bases - Western Cape",
+    type: "Fixed Term",
+    salary: "R13,000 per month",
+    closing: "26 August 2026 - TOMORROW!",
+    ref: "Ref: BCS/Fire/02/2026 | Oct 2026-Sep 2027",
+    badge: "🔥 50 JOBS - CLOSING TOMORROW",
+    description: "NCC Group is hiring 50 Fire Fighters for wildland fire-fighting across Western Cape. Must pass 4.8km pack test carrying 20kg in 45min. Shift work, standby duties, tough physical work.",
+    link: "mailto:recruitment@ncc-group.co.za?subject=BCS/Fire/02/2026",
+    urgent: true
+  },
+  {
+    id: 9,
+    title: "Systems Controller - Qpro Feeds",
+    company: "VKB Group / Qpro Feeds",
+    location: "Bethlehem, Free State",
+    type: "Permanent",
+    salary: "Market Related",
+    closing: "28 August 2026",
+    ref: "VKB Bethlehem",
+    badge: "IT / SYSTEMS",
+    description: "Systems Controller for Qpro Feeds in Bethlehem. Degree/Diploma in IT/Systems + Agriculture Systems experience.",
+    link: "#"
+  },
+  {
+    id: 8,
+    title: "General Worker - VKB Retail",
+    company: "VKB Group",
+    location: "Villiers, Free State",
+    type: "Permanent",
+    salary: "Entry Level",
+    closing: "29 August 2026",
+    ref: "VKB Villiers",
+    badge: "GRADE 12",
+    description: "General Worker at VKB Retail Villiers. Grade 12 + physically fit. Retail support duties.",
+    link: "#"
+  },
+  {
+    id: 7,
+    title: "Cashier - VKB Retail",
+    company: "VKB Group",
+    location: "Frankfort, Free State",
+    type: "Permanent",
+    salary: "Retail",
+    closing: "30 August 2026",
+    ref: "VKB",
+    badge: "RETAIL",
+    description: "Cashier position at VKB Retail.",
+    link: "#"
+  },
+  {
+    id: 6,
+    title: "Admin Clerk",
+    company: "VKB Group",
+    location: "Reitz, Free State",
+    type: "Permanent",
+    salary: "Admin",
+    closing: "30 August 2026",
+    ref: "VKB",
+    badge: "ADMIN",
+    description: "Admin Clerk support.",
+    link: "#"
+  },
+  {
+    id: 5,
+    title: "Shop Assistant",
+    company: "VKB Group",
+    location: "Memel, Free State",
+    type: "Permanent",
+    salary: "Retail",
+    closing: "31 August 2026",
+    ref: "VKB",
+    badge: "RETAIL",
+    description: "Shop Assistant role.",
+    link: "#"
+  },
+  {
+    id: 4,
+    title: "Forklift Operator",
+    company: "VKB Group",
+    location: "Bethlehem",
+    type: "Permanent",
+    salary: "Skilled",
+    closing: "31 August 2026",
+    ref: "VKB",
+    badge: "OPERATOR",
+    description: "Forklift Operator needed.",
+    link: "#"
+  },
+  {
+    id: 3,
+    title: "Cleaner",
+    company: "VKB Group",
+    location: "Harrismith",
+    type: "Permanent",
+    salary: "Entry Level",
+    closing: "31 August 2026",
+    ref: "VKB",
+    badge: "GRADE 10",
+    description: "Cleaner vacancy.",
+    link: "#"
+  },
+  {
+    id: 2,
+    title: "Security Guard",
+    company: "VKB Group",
+    location: "Bethlehem",
+    type: "Contract",
+    salary: "PSIRA",
+    closing: "01 September 2026",
+    ref: "VKB",
+    badge: "SECURITY",
+    description: "Security Guard PSIRA registered.",
+    link: "#"
+  },
+  {
+    id: 1,
+    title: "Driver - Code 10",
+    company: "VKB Group",
+    location: "Free State",
+    type: "Permanent",
+    salary: "Driving",
+    closing: "02 September 2026",
+    ref: "VKB",
+    badge: "DRIVER",
+    description: "Code 10 Driver.",
+    link: "#"
+  }
 ];
 
-function showJobs(){
-let container=document.getElementById("jobs");
-if(!container){
-container=document.createElement("div");
-container.id="jobs";
-document.body.appendChild(container);
+// Render function - keeps your existing design
+function renderJobs(filter = "all") {
+  const container = document.getElementById("jobs-container");
+  if (!container) return;
+  container.innerHTML = "";
+  jobs.forEach(job => {
+    const card = document.createElement("div");
+    card.className = `job-card ${job.urgent ? 'urgent-card' : ''}`;
+    card.innerHTML = `
+      <span class="badge">${job.badge}</span>
+      <h3>${job.title}</h3>
+      <p><strong>${job.company}</strong> - ${job.location}</p>
+      <p>💰 ${job.salary} | 📄 ${job.type}</p>
+      <p>📅 Closing: ${job.closing}</p>
+      <p>${job.description}</p>
+      <p><small>${job.ref}</small></p>
+      <a href="${job.link}" class="apply-btn" target="_blank">Apply Now</a>
+    `;
+    container.appendChild(card);
+  });
+  const countEl = document.getElementById("job-count");
+  if (countEl) countEl.innerText = `${jobs.length} JOBS LIVE!`;
 }
-container.innerHTML="";
-jobs.forEach(job=>{
-container.innerHTML+=`<div style="border:1px solid #ddd; border-radius:12px; padding:15px; margin:15px; background:white;">
-<h3 style="margin:0;">${job.title}</h3>
-<p><b>${job.company}</b> - ${job.location}</p>
-<p>${job.salary} | ${job.type}</p>
-<p style="font-size:13px; color:#555;">${job.ref}</p>
-<a href="${job.link}" target="_blank" style="display:inline-block; background:#0b5fff; color:white; padding:10px 18px; border-radius:8px; text-decoration:none; font-weight:bold;">Apply Now</a>
-</div>`;
-});
-}
-showJobs();
+document.addEventListener("DOMContentLoaded", () => renderJobs());
