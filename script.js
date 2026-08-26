@@ -115,7 +115,22 @@ salary: "Driving - R15,000",
 type: "Permanent | Driver",
 ref: "VKB | Code 10 | PDP",
 link: "https://www.vkb.co.za/"
-}
+}, 
+    {
+    title: "Old job...",
+    company: "Old company..."
+  },
+  {
+    title: "Leerder Program / Learnership Programme 2027",
+    company: "OOS VRYSTAAT KAAP BEDRYF BPK",
+    location: "Paul Roux, Free State",
+    province: "Free State",
+    town: "Paul Roux",
+    type: "Learnership - Handel Noord",
+    desc: "Uitstekende geleentheid vir Matrieks!",
+    link: "https://www.ovk.co.za/careers",
+    verified: "✅ Verified - OVK Official"
+  }
 ];
 
 function showJobs(){
