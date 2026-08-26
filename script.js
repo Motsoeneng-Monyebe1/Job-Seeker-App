@@ -1,7 +1,7 @@
 const jobs = [
   {
     id: 10,
-    title "Fire Fighter (50 Posts) - URGENT!",
+    title: "Fire Fighter (50 Posts) - URGENT!",
     company: "NCC Group Wildfires",
     location: "Various Bases - Western Cape",
     type: "Fixed Term",
