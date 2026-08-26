@@ -1,24 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Job Seeker SA</title>
-<link rel="stylesheet" href="style.css">
-</head>
-<body>
-<header>
-<h1>💼 Job Seeker SA</h1>
-<p>Find jobs in South Africa</p>
-<input id="search" placeholder="Search e.g. Cashier, Driver">
-</header>
-<main id="jobs"></main>
-<script src="script.js"></script>
-</body>
-</html>
-<!DOCTYPE html>
-<html>
-<head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Job Seeker SA</title>
 <style>
@@ -30,51 +12,16 @@ body{font-family:Arial,sans-serif;padding:15px;background:#f5f5f5}
 </head>
 <body>
 <h2>🇿🇦 Latest Verified Jobs</h2>
-<div id="jobs">Loading jobs...</div>
+<div id="jobs"></div>
 <script>
-let jobs = [
-  {
-    title: "Administrative Clerk",
-    company: "Department of Water and Sanitation",
-    location: "Bloemfontein",
-    type: "Full-time | Admin",
-    ref: "Ref No: 270826/06",
-    link: "https://www.dws.gov.za",
-    verified: "✅ Verified"
-  },
-  {
-    title: "Apprenticeship - Electrical",
-    company: "AFGRI Equipment",
-    location: "Bethlehem, Free State",
-    type: "Apprenticeship - 3 Years",
-    ref: "AO-2345 | Closing 30 Sep",
-    link: "https://afgri.erecruit.co",
-    verified: "✅ Verified - No Fee"
-  },
-  {
-    title: "Maintenance Operator Mechanical",
-    company: "Sasol",
-    location: "Sasolburg, FS",
-    type: "On-site, Full-time",
-    ref: "Posting 26 Aug 2026 - Sasol Official",
-    desc: "Support maintenance of mechanical systems, assist artisans. Grade 12/N3 required.",
-    link: "https://www.sasol.com/careers",
-    verified: "✅ Verified - No Fee"
-  }
+let jobs=[
+{title:"Administrative Clerk",company:"Department of Water",location:"Bloemfontein",type:"Full-time | Admin",ref:"Ref 270826/06",link:"https://www.dws.gov.za",verified:"✅ Verified"},
+{title:"Apprenticeship - Electrical",company:"AFGRI Equipment",location:"Bethlehem, Free State",type:"Apprenticeship",ref:"AO-2345",link:"https://afgri.erecruit.co",verified:"✅ Verified"},
+{title:"Maintenance Operator Mechanical",company:"Sasol",location:"Sasolburg, FS",type:"On-site, Full-time",ref:"Posting 26 Aug 2026 - Sasol Official",desc:"Grade 12/N3 with Maths, Science required. Assist artisans.",link:"https://www.sasol.com/careers",verified:"✅ Verified"}
 ];
-
-let container = document.getElementById("jobs");
-let html = "";
-jobs.forEach(job=>{
-  html+=`<div class="job">
-    <b>${job.title}</b><br>
-    ${job.company} - ${job.location}<br>
-    <small>${job.type} | ${job.ref}</small><br>
-    <p>${job.desc || ''}</p>
-    <a href="${job.link}" target="_blank">Apply Now</a> ${job.verified}
-  </div>`;
-});
-container.innerHTML = html;
+let c=document.getElementById("jobs");let h="";
+jobs.forEach(j=>{h+=`<div class=job><b>${j.title}</b><br>${j.company} - ${j.location}<br><small>${j.type} | ${j.ref}</small><br><p>${j.desc||''}</p><a href=${j.link} target=_blank>Apply Now</a> ${j.verified}</div>`});
+c.innerHTML=h;
 </script>
 </body>
 </html>
