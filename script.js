@@ -130,8 +130,19 @@ link: "https://www.vkb.co.za/"
     desc: "Uitstekende geleentheid vir Matrieks!",
     link: "https://www.ovk.co.za/careers",
     verified: "✅ Verified - OVK Official"
-  }
-];
+  }, 
+  {
+      title: "Apprenticeship Opportunity X40",
+      company: "AFGRI Equipment - John Deere",
+      location: "South Africa - Bethlehem, Harrismith, Frankfort & 37 more",
+      province: "Free State",
+      town: "Bethlehem",
+      type: "Apprenticeship - 3 Years | Part-time",
+      desc: "AFGRI Equipment has proudly held the John Deere Agency since 1962. 40x Tractor/Earthmoving Apprentices. Matric with English & Maths (NOT Maths Lit) + Driver's Licence required. 3-year training with AgriSETA/MerSETA.",
+      link: "https://afgri.erecruit.co/candidateapp/Jobs/Browse",
+      ref: "AO-2345 | Closing 30 Sept 2026",
+      verified: "✅ Verified - No Scam"
+    }
 
 function showJobs(){
 let container=document.getElementById("jobs") || document.getElementById("jobs-container");
