@@ -143,17 +143,20 @@ link: "https://www.vkb.co.za/"
       ref: "AO-2345 | Closing 30 Sept 2026",
       verified: "✅ Verified - No Scam"
     },
-{
-  "title": "Maintenance Operator Mechanical",
-  "company": "Sasol",
-  "location": "Sasolburg, FS",
-  "posting_date": "2026-08-26",
-  "employment_type": "On-site, Full-time",
-  "requirements": "Grade 12/N3 with Maths, Science, English | NQF 2 Mechanical (advantage) | C1/Code 10 licence | 1-2 years mechanical maintenance",
-  "description": "To support with maintenance of mechanical / electro-mechanical systems, assist artisans, inspections, housekeeping and safety.",
-  "source": "Sasol Official Careers",
-  "apply_url": "https://www.sasol.com/careers - search Maintenance Operator Mechanical Sasolburg"
-}
+{  {
+    title: "Maintenance Operator Mechanical",
+    company: "Sasol",
+    location: "Sasolburg, FS",
+    province: "Free State",
+    town: "Sasolburg",
+    type: "On-site, Full-time",
+    desc: "To support with maintenance of mechanical systems and assist artisans. Grade 12/N3 with Maths, Science, English required.",
+    link: "https://www.sasol.com/careers",
+    ref: "Posting 26 Aug 2026 | Sasol Official",
+    verified: "✅ Verified - No Fee"
+  }
+];
+
 ];
  function showJobs(){
 let container=document.getElementById("jobs") || document.getElementById("jobs-container");
