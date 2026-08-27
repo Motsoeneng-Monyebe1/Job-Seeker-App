@@ -2,26 +2,18 @@
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Job Seeker SA</title>
+<title>Job Seeker SA - Latest Verified Jobs</title>
 <style>
-body{font-family:Arial,sans-serif;padding:15px;background:#f5f5f5}
-.job{background:white;border:1px solid #ddd;padding:12px;margin:10px 0;border-radius:10px}
+body{font-family:Arial,sans-serif;background:#f5f5f5;margin:0;padding:10px}
+h2{text-align:center;color:#0a58ca}
+.job{background:white;border:1px solid #ddd;padding:15px;margin:10px 0;border-radius:12px}
 .job b{color:#0a58ca}
-.job a{background:#0a58ca;color:white;padding:6px 12px;border-radius:5px;text-decoration:none;display:inline-block;margin-top:5px}
+.job a{background:#0a58ca;color:white;padding:10px 18px;border-radius:8px;text-decoration:none;display:inline-block;margin-top:8px;font-weight:bold}
 </style>
 </head>
 <body>
-<h2>🇿🇦 Latest Verified Jobs</h2>
-<div id="jobs"></div>
-<script>
-let jobs=[
-{title:"Administrative Clerk",company:"Department of Water",location:"Bloemfontein",type:"Full-time | Admin",ref:"Ref 270826/06",link:"https://www.dws.gov.za",verified:"✅ Verified"},
-{title:"Apprenticeship - Electrical",company:"AFGRI Equipment",location:"Bethlehem, Free State",type:"Apprenticeship",ref:"AO-2345",link:"https://afgri.erecruit.co",verified:"✅ Verified"},
-{title:"Maintenance Operator Mechanical",company:"Sasol",location:"Sasolburg, FS",type:"On-site, Full-time",ref:"Posting 26 Aug 2026 - Sasol Official",desc:"Grade 12/N3 with Maths, Science required. Assist artisans.",link:"https://www.sasol.com/careers",verified:"✅ Verified"}
-];
-let c=document.getElementById("jobs");let h="";
-jobs.forEach(j=>{h+=`<div class=job><b>${j.title}</b><br>${j.company} - ${j.location}<br><small>${j.type} | ${j.ref}</small><br><p>${j.desc||''}</p><a href=${j.link} target=_blank>Apply Now</a> ${j.verified}</div>`});
-c.innerHTML=h;
-</script>
+<h2>🇿🇦 Latest Verified Jobs - Free State</h2>
+<div id="jobs">Loading jobs...</div>
+<script src="script.js"></script>
 </body>
 </html>
