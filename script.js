@@ -13,6 +13,19 @@ let jobs = [
     verified: "✅ Verified - No Fee"
   },
   { 
+    title: "Clerk, Steel Making & Final Products, Vanderbijlpark (A2)",
+    company: "ArcelorMittal South Africa",
+    location: "Vanderbijlpark, GP",
+    province: "Gauteng",
+    town: "Vanderbijlpark",
+    type: "Permanent | On-site",
+    salary: "Market Related",
+    ref: "arcmt_000923 | Apply by: 2 September 2026",
+    desc: "Industry: Steel Industry | Job category: Admin, Office Support and Services | Contract: Permanent | EE position: No | Part of the worldwide ArcelorMittal group.",
+    link: "https://arcelormittalsa.ci.hr",
+    verified: "✅ Verified - No Fee - ArcelorMittal Official"
+  },
+  {
     title: "Seasonal Sales Associate Opportunity (No Matric)",
     company: "TFG - The Foschini Group",
     location: "South Africa - Nationwide | Sportscene, Totalsports, Sneaker Factory, Archive, Jet",
