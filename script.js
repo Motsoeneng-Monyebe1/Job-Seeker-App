@@ -12,7 +12,46 @@ let jobs = [
     link: "https://www.sasol.com/careers",
     verified: "✅ Verified - No Fee"
   },
-  { 
+  {
+    title: "Retail Associate",
+    company: "BKB",
+    location: "Stutterheim, EC",
+    province: "Eastern Cape",
+    town: "Stutterheim",
+    type: "Full-time | On-site",
+    salary: "Market Related",
+    ref: "Published: 27 Aug 2026 | Closing: 03 September 2026",
+    desc: "Current Vacancy at BKB - Retail Associate. Location: Stutterheim, Eastern Cape. Retail operations and customer service.",
+    link: "https://bkb.simplify.hr/",
+    verified: "✅ Verified - BKB Official"
+  },
+  {
+    title: "2x Shipping Forklift Drivers",
+    company: "BKB",
+    location: "Gqeberha / Port Elizabeth, EC",
+    province: "Eastern Cape",
+    town: "Gqeberha",
+    type: "Full-time | On-site",
+    salary: "Market Related",
+    ref: "Published: 21 Aug 2026 | Closing: 27 August 2026",
+    desc: "Current Vacancy at BKB - 2x Shipping Forklift Drivers. Location: Gqeberha/Port Elizabeth. Must have valid forklift license and shipping experience.",
+    link: "https://bkb.simplify.hr/",
+    verified: "✅ Verified - BKB Official"
+  },
+  {
+    title: "Procurement Manager",
+    company: "BKB",
+    location: "Bethlehem, FS",
+    province: "Free State",
+    town: "Bethlehem",
+    type: "Full-time | On-site",
+    salary: "Market Related",
+    ref: "Published: 19 Aug 2026 | Closing: 09 September 2026",
+    desc: "Current Vacancy at BKB - Procurement Manager. Location: Bethlehem, Free State. Procurement and supply chain management.",
+    link: "https://bkb.simplify.hr/",
+    verified: "✅ Verified - BKB Official"
+  },
+  {
     title: "Clerk, Steel Making & Final Products, Vanderbijlpark (A2)",
     company: "ArcelorMittal South Africa",
     location: "Vanderbijlpark, GP",
