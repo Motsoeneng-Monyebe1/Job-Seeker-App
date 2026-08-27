@@ -12,6 +12,19 @@ let jobs = [
     link: "https://www.sasol.com/careers",
     verified: "✅ Verified - No Fee"
   },
+  { 
+    title: "Seasonal Sales Associate Opportunity (No Matric)",
+    company: "TFG - The Foschini Group",
+    location: "South Africa - Nationwide | Sportscene, Totalsports, Sneaker Factory, Archive, Jet",
+    province: "All Provinces",
+    town: "Nationwide",
+    type: "Contract | Retail 120hr",
+    salary: "Market Related - Seasonal",
+    ref: "Job ID: 14398 | Posted 2026 | No Matric Needed",
+    desc: "TFG is looking for fun, energetic, hardworking SEASONAL employees. Brands: Bloo, Sportscene, Totalsports, Sneaker Factory, Archive, Jet. No Matric required! Must be SA Citizen, good communication & selling skills, willing to work retail hours including weekends. Apply online only.",
+    link: "https://fa-expc-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/14398",
+    verified: "✅ Verified - TFG Official Oracle"
+  },
   {
     title: "Apprenticeship Opportunity X40",
     company: "AFGRI Equipment - John Deere",
