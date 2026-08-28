@@ -1,25 +1,44 @@
 <!DOCTYPE html>
 <html>
 <head>
+<meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>SA Jobs - Verified</title>
+<title>SA Jobs - Verified & Free</title>
 <style>
-body{font-family:sans-serif;padding:15px;background:#f5f5f5}
-.job-card{background:white;padding:15px;margin:10px 0;border-radius:8px;box-shadow:0 2px 4px rgba(0,0,0,0.1)}
-.forms-box{background:#e8f5e9;padding:12px;border-radius:8px;margin-bottom:15px;border:2px solid green}
-.disclaimer{background:#fff9c4;padding:10px;border-radius:5px;font-size:13px}
-.btn{background:green;color:white;padding:8px 12px;text-decoration:none;border-radius:5px;display:inline-block;margin:5px}
+body{font-family:sans-serif;padding:15px;background:#f5f5f5;margin:0}
+.forms-box{background:#e8f5e9;padding:12px;border-radius:8px;margin:10px 0;border:2px solid green}
+.btn{display:block;text-align:center;padding:10px;margin:6px 0;border-radius:6px;text-decoration:none;color:white;font-weight:bold}
+.green{background:green} .blue{background:#1565c0}
+.worldskills{background:white;border:3px solid #007749;padding:12px;border-radius:10px;margin:15px 0}
+.job-card{background:white;padding:12px;margin:10px 0;border-radius:8px;box-shadow:0 2px 4px rgba(0,0,0,0.1)}
 </style>
 </head>
 <body>
-<h2>🇿🇦 Latest Verified Jobs</h2>
-<div class="disclaimer">⚠️ We link to original company sites. Never pay for a job.</div>
+<h2>🇿🇦 SA Jobs - Verified</h2>
+
+<!-- WORLDSKILLS 2027 FEATURED -->
+<div class="worldskills">
+<h2 style="margin:0;color:#007749;">🏆 WorldSkills SA 2027</h2>
+<img src="forms/worldskills-2027.jpg" style="width:100%;border-radius:8px;margin:8px 0;" alt="WorldSkills poster - upload coming soon">
+<p><b>34 Skills:</b> Plumbing, Welding, Cooking, Cyber Security + more!</p>
+<div style="background:#ffebee;padding:8px;border-radius:5px;font-size:14px;">
+📅 <b>1 Sept 2026 - 30 April 2027</b><br>
+👤 TVET, Apprentices, University - Age under 23 in 2028
+</div>
+<a href="https://worldskills.gov.za/applications" target="_blank" class="btn green">📲 APPLY - worldskills.gov.za</a>
+</div>
+
+<!-- FORMS BOX - YOUR Z83 PDF + CV IMAGE -->
 <div class="forms-box">
 <h3>📄 FREE FORMS</h3>
-<a class="btn" href="forms/APPLICATION-FOR-RE-ADMISSION.pdf">📥 VUT Form</a>
-<a class="btn" href="forms/Approved_New_Z83_form_Gazetted_6_Nov_2020_1.pdf">📥 Z83 Form</a>
-<a class="btn" href="forms/IMG-20260828-WA0298.jpg">📥 CV Template</a>
+<p><b>Z83 Form (PDF):</b></p>
+<a href="forms/Approved_New_Z83_form_Gazetted_6_Nov_2020_1.pdf" target="_blank" class="btn green">📥 DOWNLOAD Z83 PDF</a>
+
+<p style="margin-top:12px;"><b>CV Template (Image):</b></p>
+<img src="forms/IMG-20260828-WA0298.jpg" style="width:100%;border:1px solid #ccc;border-radius:5px;">
+<a href="forms/IMG-20260828-WA0298.jpg" download class="btn blue">📥 SAVE CV IMAGE</a>
 </div>
+
 <div id="jobs-container">Loading jobs...</div>
 <script src="script.js"></script>
 </body>
