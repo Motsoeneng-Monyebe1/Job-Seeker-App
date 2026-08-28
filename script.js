@@ -12,6 +12,16 @@ let jobs = [
     link: "https://www.sasol.com/careers",
     verified: "✅ Verified - No Fee"
   },
+ {
+    title: "Presiding Officer / Deputy Presiding Officer",
+    company: "IEC - Electoral Commission of South Africa",
+    location: "Dihlabeng Local Municipality FS192 - Free State",
+    salary: "R3,580 - R4,500 (per event)",
+    closing: "2026-08-31",
+    type: "Temporary - Election Jobs",
+    requirements: "SA Citizen, Registered Voter, 8 years experience, No political office in last 5 years, Smartphone, Bank Account, SARS, Sesotho/English",
+    link: "https://www.iec.org.za/vacancies/"
+  }, 
   {
     title: "Retail Associate",
     company: "BKB",
