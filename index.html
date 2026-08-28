@@ -1,38 +1,30 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Job Seeker SA - Latest Verified Jobs</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>SA Jobs - Verified</title>
 <style>
-body{font-family:Arial,sans-serif;background:#f2f2f2;margin:0;padding:10px}
-h2{text-align:center;color:#0a58ca}
-.job{background:white;border:1px solid #ddd;border-radius:10px;padding:15px;margin:10px 0}
-.job b{color:#0a58ca}
-.job a{background:#0a58ca;color:white;padding:8px 15px;border-radius:5px;text-decoration:none;display:inline-block;margin-top:8px}
-.forms-box{background:#e8f5e9;padding:15px;border-radius:10px;margin:15px 0;text-align:center;border:2px solid green}
-.forms-box a{display:inline-block;background:green;color:white;padding:10px 15px;margin:5px;border-radius:5px;text-decoration:none;font-weight:bold}
-.disclaimer{background:#fff3cd;padding:10px;border-radius:5px;text-align:center;font-size:12px;margin:10px 0}
+body{font-family:sans-serif;padding:15px;background:#f5f5f5}
+.job-card{background:white;padding:15px;margin:10px 0;border-radius:8px;box-shadow:0 2px 4px rgba(0,0,0,0.1)}
+.forms-box{background:#e8f5e9;padding:12px;border-radius:8px;margin-bottom:15px;border:2px solid green}
+.disclaimer{background:#fff9c4;padding:10px;border-radius:5px;font-size:13px}
+.btn{background:green;color:white;padding:8px 12px;text-decoration:none;border-radius:5px;display:inline-block;margin:5px}
 </style>
 </head>
 <body>
-<h2>🇿🇦 Latest Verified Jobs - SA</h2>
-
+<h2>🇿🇦 Latest Verified Jobs</h2>
 <div class="disclaimer">
-⚠️ We don't hire or recruit — we only share verified job posts from legit companies. Always verify on official company website.
+⚠️ We link to original company sites. We don't charge. Never pay for a job.
 </div>
 
-<!-- FORMS SECTION - People WILL see this -->
 <div class="forms-box">
-<h3 style="color:green;margin:0;">📄 FREE DOWNLOAD FORMS</h3>
-<p>Click to download - No data needed</p>
-<a href="forms/z83.pdf" target="_blank">📥 Z83 Form</a>
-<a href="forms/essa-poster.jpg" target="_blank">🖼️ ESSA Poster</a>
-<a href="forms/Cleaner-DPSA.pdf" target="_blank">📘 DPSA Cleaner (X11)</a>
-<a href="forms/McDonalds-Learnership.pdf" target="_blank">🍔 McDonald's Learnership</a>
-<p style="font-size:12px;">Upload your forms to the "forms" folder to make buttons work</p>
+<h3 style="color:green;margin:0 0 8px 0;">📄 FREE DOWNLOAD FORMS</h3>
+<a class="btn" href="forms/APPLICATION-FOR-RE-ADMISSION.pdf" target="_blank">📥 VUT Re-Admission</a>
+<a class="btn" href="forms/z83.pdf" target="_blank">📥 Z83 Form (Gov Jobs)</a>
+<p style="font-size:12px;margin:8px 0 0 0;">No data needed - click to download</p>
 </div>
 
-<div id="jobs">Loading jobs...</div>
+<div id="jobs-container">Loading jobs...</div>
 <script src="script.js"></script>
 </body>
 </html>
