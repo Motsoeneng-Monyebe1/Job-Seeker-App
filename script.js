@@ -13,6 +13,86 @@ let jobs = [
     verified: "✅ Verified - No Fee"
   },
   {
+  title: "Receptionist / Administrator",
+  company: "Fidelity Services Group (Fidelity ADT)",
+  location: "Rustenburg, North West",
+  type: "Full-time",
+  closing: "2026-08-28",
+  description: "Manage reception and switchboard, filing, purchasing, banking admin, sales lead management. Matric required. Previous experience beneficial.",
+  link: "https://www.sajobsportal.co.za",
+  verified: "Shared via SAJobsPortal - verify on official Fidelity careers"
+},
+{
+  title: "Marker & Packer",
+  company: "Brights Hardware Store",
+  location: "Brackenfell, Western Cape",
+  type: "Full-time",
+  closing: "2026-09-30",
+  description: "Ensure stock correctly marked, packed, stored. Stock picking, merchandising, stock counts. General Assistant experience advantageous.",
+  link: "https://www.sajobsportal.co.za",
+  verified: "Shared via SAJobsPortal"
+},
+{
+  title: "Cleaner",
+  company: "Food Lover's Market",
+  location: "Bruma, Gauteng",
+  type: "Full-time",
+  closing: "2026-09-30",
+  description: "Cleaning floors, restrooms, waste management, cleaning supplies. Grade 12, previous cleaner/general worker experience, clear criminal record.",
+  link: "https://www.sajobsportal.co.za",
+  verified: "Shared via SAJobsPortal"
+},
+{
+  title: "Cashiers (X4 Posts)",
+  company: "Food Lover's Market",
+  location: "Tokai, Kuils River, Hermanus - WC",
+  type: "Full-time",
+  closing: "2026-09-30",
+  description: "Operate POS, scan purchases, handle cash/card payments. Grade 12 + Cashier experience + POS system experience.",
+  link: "https://www.sajobsportal.co.za",
+  verified: "Shared via SAJobsPortal"
+},
+{
+  title: "Cashiers (X10 Posts)",
+  company: "Pedros Flame Grilled Chicken",
+  location: "Various - South Africa",
+  type: "Full-time",
+  closing: "2026-09-30",
+  description: "Welcome customers, take orders, handle payments, maintain service areas. Customer-focused, busy restaurant environment.",
+  link: "https://www.sajobsportal.co.za",
+  verified: "Shared via SAJobsPortal"
+},
+{
+  title: "Waiter / Waitress",
+  company: "RocoMamas",
+  location: "Krugersdorp, Gauteng",
+  type: "Full-time",
+  closing: "2026-09-30",
+  description: "Welcome guests, explain menu, take orders, serve food, process payments. Previous waiter experience, English communication, clear criminal record.",
+  link: "https://www.sajobsportal.co.za",
+  verified: "Shared via SAJobsPortal"
+},
+{
+  title: "Cleaners (X11 Posts) - No Experience",
+  company: "DPSA - Department of Transport",
+  location: "Ladysmith & Durban, KZN",
+  type: "Government",
+  closing: "2026-08-31",
+  description: "11 Cleaner vacancies. Government DPSA posting. No experience needed. Must be SA citizen.",
+  link: "https://www.sajobsportal.co.za",
+  verified: "Government post via SAJobsPortal - check DPSA Circular"
+},
+{
+  title: "McDonald's Learnerships (X30) - No Experience",
+  company: "McDonald's SA",
+  location: "Various Provinces",
+  type: "Learnership",
+  closing: "2026-08-30",
+  description: "Cohort 2 Learnership. Grade 12, 18-26 years, SA citizen, unemployed, not studying, clear criminal record, willing to work shifts.",
+  link: "https://www.sajobsportal.co.za",
+  verified: "Shared via SAJobsPortal"
+},
+  {
   title: "FREE Government Job Matching - ESSA System",
   company: "Department of Employment & Labour - Bethlehem Labour Centre",
   location: "36 Louw Street, Bethlehem 9700 - For ALL Dihlabeng (Paul Roux, Fouriesburg, Clarens)",
