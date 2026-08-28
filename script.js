@@ -12,16 +12,23 @@ let jobs = [
     link: "https://www.sasol.com/careers",
     verified: "✅ Verified - No Fee"
   },
- {
+  {
     title: "Presiding Officer / Deputy Presiding Officer",
     company: "IEC - Electoral Commission of South Africa",
-    location: "Dihlabeng Local Municipality FS192 - Free State",
+    location: "Dihlabeng Local Municipality FS192 - Bethlehem, Paul Roux, Fouriesburg, Clarens",
+    province: "Free State",
+    type: "Temporary Election Contract",
     salary: "R3,580 - R4,500 (per event)",
     closing: "2026-08-31",
-    type: "Temporary - Election Jobs",
-    requirements: "SA Citizen, Registered Voter, 8 years experience, No political office in last 5 years, Smartphone, Bank Account, SARS, Sesotho/English",
-    link: "https://www.iec.org.za/vacancies/"
-  }, 
+    badge: "VERIFIED - OFFICIAL IEC SITE",
+    link: "https://www.elections.org.za/pw/About-Us/BrowseJobs",
+    applyLink1: "https://registertovote.elections.org.za/account/create",
+    applyLink2: "https://online.elections.org.za/MyIEC",
+    requirements: "SA Citizen, Registered Voter, 8 Years Exp, No Political Office Last 5 Years, Smartphone, Bank Account, SARS",
+    description: "OFFICIAL IEC SITE ONLY. Create profile at registertovote.elections.org.za then apply at elections.org.za. Temporary work: 2 special voting days + voting day + counting. Must have Sesotho & English. Upload CV, ID, Qualifications, Bank Statement, SARS.",
+    isReal: true,
+    officialSite: "www.elections.org.za - NOT iec.org.za (fake)"
+  },
   {
     title: "Retail Associate",
     company: "BKB",
