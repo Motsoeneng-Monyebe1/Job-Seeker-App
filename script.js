@@ -43,7 +43,7 @@
     closing: "2026-08-28",
     description: "Manage reception and"
   }, 
-{
+ {
   title: "Cleaner",
   company: "Food Lover's Market",
   location: "Bruma, Gauteng",
