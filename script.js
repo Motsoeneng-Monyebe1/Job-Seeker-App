@@ -42,7 +42,7 @@
     type: "Full-time",
     closing: "2026-08-28",
     description: "Manage reception and"
-  }, 
+ }, 
  {
   title: "Cleaner",
   company: "Food Lover's Market",
@@ -103,7 +103,7 @@
   link: "https://www.sajobsportal.co.za",
   verified: "Shared via SAJobsPortal"
 },
-  {
+{
   title: "FREE Government Job Matching - ESSA System",
   company: "Department of Employment & Labour - Bethlehem Labour Centre",
   location: "36 Louw Street, Bethlehem 9700 - For ALL Dihlabeng (Paul Roux, Fouriesburg, Clarens)",
@@ -118,7 +118,7 @@
   description: "ESSA will match your CV automatically to employers. Register once at Labour Centre. They have Formal Jobs, Learnerships, Apprenticeships, Internships. Bring ID, CV, Qualifications. Ask for SENIOR EMPLOYMENT PRACTITIONER Mokoena DE. All services are FREE per UI Act.",
   isReal: true
 },
-  {
+{
     title: "Presiding Officer / Deputy Presiding Officer",
     company: "IEC - Electoral Commission of South Africa",
     location: "Dihlabeng Local Municipality FS192 - Bethlehem, Paul Roux, Fouriesburg, Clarens",
