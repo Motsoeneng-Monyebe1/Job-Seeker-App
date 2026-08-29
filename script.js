@@ -1,4 +1,4 @@
- }let jobs = [
+ let jobs = [
   {
     title: "Maintenance Operator Mec",
     company: "Sasol",
