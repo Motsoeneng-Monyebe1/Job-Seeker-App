@@ -12,8 +12,15 @@ let jobs = [
     link: "https://www.sasol.com/careers",
     verified: "✅ Verified - No Fee"
   },
-  {
-  title: "Receptionist / Administrator",
+  {const jobs = [
+  // YOUR OLD JOBS KEEP THEM HERE
+  {title:"Your old job 1", location:"..."},
+
+  // THEN ADD THE NEW VERIFIED ONES UNDER
+  {title:"Armed Dog Handlers - Red Ant", location:"Limpopo", email:"recruiting@rasre.co.za", type:"VERIFIED"},
+  {title:"Security Officers - Phangela Group", location:"Cape Town", email:"careers@phangelagroup.co.za", type:"VERIFIED"},
+  ,}, 
+    { title: "Receptionist / Administrator",
   company: "Fidelity Services Group (Fidelity ADT)",
   location: "Rustenburg, North West",
   type: "Full-time",
