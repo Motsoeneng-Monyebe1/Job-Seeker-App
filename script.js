@@ -1,44 +1,49 @@
-let jobs = [
+ 
+}let jobs = [
   {
-    title: "Maintenance Operator Mechanical",
+    title: "Maintenance Operator Mec",
     company: "Sasol",
     location: "Sasolburg, FS",
     province: "Free State",
     town: "Sasolburg",
     type: "On-site, Full-time",
     salary: "Sasol Official",
-    ref: "Posting 26 Aug 2026 | Sasol Official",
-    desc: "To support with maintenance of mechanical systems and assist artisans. Grade 12/N3 with Maths, Science, English required.",
-    link: "https://www.sasol.com/careers",
+    ref: "Posting 26 Aug 2026 | Sasol",
+    desc: "To support with maintenan",
+    link: "https://www.sasol.com/car",
     verified: "✅ Verified - No Fee"
   },
-  {const jobs = [
-  // YOUR OLD JOBS KEEP THEM HERE
-  {title:"Your old job 1", location:"..."},
-
-  // THEN ADD THE NEW VERIFIED ONES UNDER
-  {title:"Armed Dog Handlers - Red Ant", location:"Limpopo", email:"recruiting@rasre.co.za", type:"VERIFIED"},
-  {title:"Security Officers - Phangela Group", location:"Cape Town", email:"careers@phangelagroup.co.za", type:"VERIFIED"},
-  ,}, 
-    { title: "Receptionist / Administrator",
-  company: "Fidelity Services Group (Fidelity ADT)",
-  location: "Rustenburg, North West",
-  type: "Full-time",
-  closing: "2026-08-28",
-  description: "Manage reception and switchboard, filing, purchasing, banking admin, sales lead management. Matric required. Previous experience beneficial.",
-  link: "https://www.sajobsportal.co.za",
-  verified: "Shared via SAJobsPortal - verify on official Fidelity careers"
-},
-{
-  title: "Marker & Packer",
-  company: "Brights Hardware Store",
-  location: "Brackenfell, Western Cape",
-  type: "Full-time",
-  closing: "2026-09-30",
-  description: "Ensure stock correctly marked, packed, stored. Stock picking, merchandising, stock counts. General Assistant experience advantageous.",
-  link: "https://www.sajobsportal.co.za",
-  verified: "Shared via SAJobsPortal"
-},
+  {
+    title: "Armed Dog Handlers - Red Ant",
+    company: "Red Ant Security RASRE",
+    location: "Limpopo - Polokwane, Giyani etc",
+    province: "Limpopo",
+    town: "Polokwane",
+    type: "Full-time",
+    salary: "Market Related",
+    ref: "recruiting@rasre.co.za",
+    desc: "Armed Dog Handlers & Armed Response",
+    link: "mailto:recruiting@rasre.co.za",
+    verified: "✅ Verified - No Fee"
+  },
+  {
+    title: "Security Officers - Phangela Group",
+    company: "Phangela Group",
+    location: "Cape Town",
+    province: "Western Cape",
+    town: "Goodwood",
+    type: "Full-time",
+    closing: "2026-08-31",
+    description: "Security Officers Senior Grade B"
+  },
+  {
+    title: "Receptionist / Adminis",
+    company: "Fidelity Services Group",
+    location: "Rustenburg, North West",
+    type: "Full-time",
+    closing: "2026-08-28",
+    description: "Manage reception and"
+  }, 
 {
   title: "Cleaner",
   company: "Food Lover's Market",
