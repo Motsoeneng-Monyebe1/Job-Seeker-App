@@ -1,5 +1,15 @@
  let jobs = [
-  {
+      {
+        title: "Administrative Controller: Food Safety",
+        company: "Clover",
+        location: "South Africa",
+        type: "Permanent",
+        closing: "2026-09-03",
+        description: "Clover SA (Top Employer South Africa 2026) is hiring Administrative Controller: Food Safety - Ref CLO260827-5. Department: Production. 01 Position. Job Type: Permanent. Closing Date: 03 September 2026. Apply via Clover Careers portal.",
+        link: "https://www.clover.co.za/careers - Ref CLO260827-5",
+        verified: "Clover Careers - Top Employer 2026"
+ },
+{
     title: "Maintenance Operator Mec",
     company: "Sasol",
     location: "Sasolburg, FS",
