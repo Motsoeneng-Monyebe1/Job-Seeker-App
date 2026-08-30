@@ -13,6 +13,16 @@
     verified: "✅ Verified - No Fee"
   },
   {
+        title: "Safety and Security Learnership (Persons with disability encouraged)",
+        company: "Eagle Eye Security Specialist",
+        location: "Ekurhuleni, Gauteng",
+        type: "Learnership",
+        closing: "2026-09-30",
+        description: "Seeking applicants interested in Safety and Security Learnership programme. Persons with disability are encouraged to apply - inclusive opportunity for all. REQUIRED DOCUMENTS Submit as ONE PDF: Matric / Grade 12 Certificate, Detailed CV, Certified ID Copy, Confirmation of disability status (Medical report & Certificate). WARNING: DOUBLE DIPPING LEARNERSHIP NOT ALLOWED",
+        link: "mailto:training2@eagle-ess.co.za?subject=Learnership Application - Ekurhuleni",
+        verified: "Shared via SAJobs - Email: training2@eagle-ess.co.za"
+    },
+  {
     title: "Armed Dog Handlers - Red Ant",
     company: "Red Ant Security RASRE",
     location: "Limpopo - Polokwane, Giyani etc",
