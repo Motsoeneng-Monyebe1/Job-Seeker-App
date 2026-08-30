@@ -45,7 +45,7 @@
     link: "mailto:recruiting@rasre.co.za",
     verified: "✅ Verified - No Fee"
   },
-  {  
+ { 
     title: "Work Integrated Learning (WIL) - Non Technical",
     company: "Transnet SOC Ltd",
     location: "Koedoespoort, Germiston, Bloemfontein, Durban, Uitenhage and Saltriver",
