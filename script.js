@@ -11,8 +11,8 @@
     desc: "To support with maintenan",
     link: "https://www.sasol.com/car",
     verified: "✅ Verified - No Fee"
-   },
-  {
+  },
+ {
     title: "Parts Salesperson (Polokwane)",
     company: "AFGRI",
     location: "Polokwane, Limpopo",
