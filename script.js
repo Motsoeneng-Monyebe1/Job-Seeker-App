@@ -13,6 +13,16 @@
     verified: "✅ Verified - No Fee"
   },
   {
+    title: "Parts Salesperson (Polokwane)",
+    company: "AFGRI",
+    location: "Polokwane, Limpopo",
+    type: "Full-time",
+    closing: "2026-09-04",
+    description: "AFGRI is hiring Parts Salesperson - Ref AO-2454. Provide over-the-counter sales and administration functions of parts stock. Requirements: Grade 12, 1-year sales and administration experience, Parts sales experience essential, Construction parts sales knowledge advantage, Computer Literacy MS Office, Good customer service and communication, Valid Driver's Licence. Key duties: Ensure stable availability of stock by ordering in line with branch procedure, Conduct regular stock counting and stocktaking, Stock control and rotation, Build relationships with internal and external clients, Resolve customer queries and complaints, Accurate cash balancing, Process payments cash credit cards, Process sales and returns, Compliance with risk and safety legislation, Keep stock safe.",
+    link: "https://www.afgri.co.za/vacancy/AO-2454",
+    verified: "AFGRI Careers - Closing 04 September 2026"
+   },
+  {
     title: "Safety and Security Learnership (Persons with disability encouraged)",
     company: "Eagle Eye Security Specialist",
     location: "Ekurhuleni, Gauteng",
