@@ -13,15 +13,15 @@
     verified: "✅ Verified - No Fee"
   },
   {
-        title: "Safety and Security Learnership (Persons with disability encouraged)",
-        company: "Eagle Eye Security Specialist",
-        location: "Ekurhuleni, Gauteng",
-        type: "Learnership",
-        closing: "2026-09-30",
-        description: "Seeking applicants interested in Safety and Security Learnership programme. Persons with disability are encouraged to apply - inclusive opportunity for all. REQUIRED DOCUMENTS Submit as ONE PDF: Matric / Grade 12 Certificate, Detailed CV, Certified ID Copy, Confirmation of disability status (Medical report & Certificate). WARNING: DOUBLE DIPPING LEARNERSHIP NOT ALLOWED",
-        link: "mailto:training2@eagle-ess.co.za?subject=Learnership Application - Ekurhuleni",
-        verified: "Shared via SAJobs - Email: training2@eagle-ess.co.za"
-    },
+    title: "Safety and Security Learnership (Persons with disability encouraged)",
+    company: "Eagle Eye Security Specialist",
+    location: "Ekurhuleni, Gauteng",
+    type: "Learnership",
+    closing: "2026-09-30",
+    description: "Seeking applicants interested in Safety and Security Learnership programme. Persons with disability are encouraged to apply - inclusive opportunity for all. REQUIRED DOCUMENTS Submit as ONE PDF: Matric / Grade 12 Certificate, Detailed CV, Certified ID Copy, Confirmation of disability status (Medical report & Certificate). WARNING: DOUBLE DIPPING LEARNERSHIP NOT ALLOWED",
+    link: "mailto:training2@eagle-ess.co.za?subject=Learnership Application - Ekurhuleni",
+    verified: "Shared via SAJobs - Email: training2@eagle-ess.co.za"
+   },
   {
     title: "Armed Dog Handlers - Red Ant",
     company: "Red Ant Security RASRE",
@@ -35,6 +35,16 @@
     link: "mailto:recruiting@rasre.co.za",
     verified: "✅ Verified - No Fee"
   },
+  {  
+    title: "Work Integrated Learning (WIL) - Non Technical",
+    company: "Transnet SOC Ltd",
+    location: "Koedoespoort, Germiston, Bloemfontein, Durban, Uitenhage and Saltriver",
+    type: "Learnership - WIL Programme",
+    closing: "2026-08-20",
+    description: "Transnet Non Technical WIL Programme which aligns to Transnet Business Strategy. Non-Technical Disciplines: Human Resource Management, Office Management. Minimum Requirements: Matric certificate and completed theoretical N4 - N6 for HR and Office Management, Must be South African, Age between 18-35, Preference for people with Disability, No bursary obligation with other company. Required docs: Inservice training Letter from Institution for WIL Programme, Proof of certified Matric certificate and ID, Full Academic record, updated CV, Grade 12 report, full academic transcript.",
+    link: "https://www.transnet.net/careers",
+    verified: "Shared via SAJobs - Transnet Academy"
+   },
   {
     title: "Security Officers - Phangela Group",
     company: "Phangela Group",
