@@ -8,8 +8,8 @@ let jobs = [
     description: "Clover SA (Top Employer South Africa 2026) is hiring Administrative Controller: Food Safety - Ref CLO260827-5. Department: Production. 01 Position. Job Type: Permanent. Closing Date: 03 September 2026. Apply via Clover Careers portal.",
     link: "https://www.clover.co.za/careers - Ref CLO260827-5",
     verified: "Clover Careers - Top Employer 2026"
- },
-{  
+  },
+ {  
     title: "FREE ARPL for Experienced Plumbers - Red Seal Certificate",
     company: "Motheo Academy x EWSETA",
     location: "Randburg, Johannesburg (Training) - National Applicants",
