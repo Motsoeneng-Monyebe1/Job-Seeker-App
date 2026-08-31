@@ -9,7 +9,17 @@ let jobs = [
     link: "https://www.clover.co.za/careers - Ref CLO260827-5",
     verified: "Clover Careers - Top Employer 2026"
   },
- {  
+ { 
+    title: "Procurement Manager",
+    company: "BKB Ltd",
+    location: "Bethlehem, Free State",
+    type: "Permanent",
+    closing: "2026-09-09",
+    description: "BKB Ltd Agriculture is hiring Procurement Manager - Bethlehem. Posted 19 August 2026. Primary purpose: Ensure efficient, cost-effective, and timely procurement of raw materials required for production, while upholding quality standards and fostering strong supplier relationships. Also responsible for implementing SAFEX hedging strategy and managing production planning and scheduling of client orders. Qualifications: 3 Year Qualification in Accounting, Supply Chain Management, Business Administration or related field, SAFEX trading exam beneficial, 3-7 years relevant experience. Skills: Excellent interpersonal and customer relations, Experience within production and logistical environment, Organised and logical problem-solving, Adapt quickly, Team player, General knowledge of accounting, Strong communication and admin, Management skills, Effective negotiation and stakeholder management. Key Responsibilities: Milldoor contract management, Manage Weighbridge Team, Manage SAFEX book and trading, Production Planning - Planning and scheduling of orders.",
+    link: "https://bkb.simplify.hr/Vacancy/Apply/abc123",
+    verified: "BKB Ltd Official Careers via Simplify.hr - Closing 09 September 2026"
+  },
+ {
     title: "FREE ARPL for Experienced Plumbers - Red Seal Certificate",
     company: "Motheo Academy x EWSETA",
     location: "Randburg, Johannesburg (Training) - National Applicants",
