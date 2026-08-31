@@ -9,7 +9,17 @@ let jobs = [
     link: "https://www.clover.co.za/careers - Ref CLO260827-5",
     verified: "Clover Careers - Top Employer 2026"
  },
-{
+{  
+    title: "FREE ARPL for Experienced Plumbers - Red Seal Certificate",
+    company: "Motheo Academy x EWSETA",
+    location: "Randburg, Johannesburg (Training) - National Applicants",
+    type: "ARPL - Fully Funded - No Stipend",
+    closing: "2026-09-11",
+    description: "FREE Artisan Recognition of Prior Learning (ARPL) Opportunity for Experienced Plumbers - Re-advertisement. Motheo Academy in partnership with Energy and Water Sector Education and Training (EWSETA) offers Red Seal Certificate in Plumbing via ARPL. Requirements: Minimum 3 years plumbing work experience in South Africa, Grade 9 / Standard 7 minimum, Certified ID copy within last 3 months, Must be 19 years or older, Proof of work experience - service letter on company letterhead detailing at least six daily plumbing duties, period of service, signed by Director/CEO/HR/Manager, Self-employed must provide affidavit signed by Commissioner of Oaths + valid CK document, Must be currently employed and actively performing plumbing work, Detailed CV with contactable references, Must be available to attend training/practical sessions in Randburg JHB at own travel cost. Note: Fully funded, NO stipend payable.",
+    link: "mailto:learnership@motheogroup.co.za",
+    verified: "Verified via Motheo Academy LinkedIn Official - Closing 11 Sept 2026 - Enquiries 087 805 7474 - Ref EWSETA Partnership"
+  },
+ {
     title: "Maintenance Operator Mec",
     company: "Sasol",
     location: "Sasolburg, FS",
