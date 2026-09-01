@@ -9,6 +9,17 @@ let jobs = [
     link: "https://www.clover.co.za/careers - Ref CLO260827-5",
     verified: "Clover Careers - Top Employer 2026"
   },
+{
+    title: "Site Administrator",
+    company: "Afrimat Ash Resources",
+    location: "Matla, Mpumalanga, South Africa",
+    type: "Full-time - Mining",
+    closing: "2026-09-25",
+    description: "Provide day-to-day admin support to Site Manager. Compile daily/weekly/monthly reports, maintain site documentation, assist with purchase requisitions/orders/invoices, audit prep, receive/inspect/record stock/materials/PPE/tools, verify deliveries, store/issue stock, stock counts, monitor min/max levels. Requires Grade 12, Certificate in Administration/Stores/Logistics/Supply Chain advantageous, 2-3 years site admin/stores/warehouse exp, stock control, ERP system advantageous. Must be medically fit (Mine Health & Safety Act), valid driver's license, work under pressure, good leadership & communication.",
+    link: "https://www.afrimat.co.za - Site Administrator Matla",
+    verified: "Afrimat Ash Resources - Apply on website - Docs: CV + Certified ID + Matric in ONE file <3MB",
+    requirements: "Grade 12 + Admin/Stores Certificate + 2-3 years exp + Stock Control + ERP + Driver's License + Medically Fit"
+  },
  { 
     title: "Procurement Manager",
     company: "BKB Ltd",
