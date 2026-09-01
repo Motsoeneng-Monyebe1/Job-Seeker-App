@@ -9,7 +9,7 @@ let jobs = [
     link: "https://www.clover.co.za/careers - Ref CLO260827-5",
     verified: "Clover Careers - Top Employer 2026"
   },
-{
+ {
     title: "Site Administrator",
     company: "Afrimat Ash Resources",
     location: "Matla, Mpumalanga, South Africa",
