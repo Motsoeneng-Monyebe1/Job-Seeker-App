@@ -10,6 +10,16 @@ let jobs = [
     verified: "Clover Careers - Top Employer 2026"
   },
  {
+    title: "BEE Chamber Learnership - All Fields",
+    company: "BEE Chamber",
+    location: "South Africa - All Provinces",
+    type: "Learnership - 12 Months",
+    closing: "2026-12-31",
+    description: "Free accredited learnerships: Manufacturing, Business Admin, Food Processing, Agriculture. Stipend paid. Requirements: SA Citizen, Grade 10-12, Age 18-35, Unemployed. No fees. Includes NQF Certificate.",
+    link: "https://bee.co.za/",
+    verified: "Verified - Official BEE Chamber Portal - Apply Direct"
+  },
+ {
     title: "Admin Assistant - VKB Mechanisation",
     company: "VKB Group",
     location: "Douglas, Northern Cape",
