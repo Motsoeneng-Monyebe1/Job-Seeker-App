@@ -10,6 +10,21 @@ let jobs = [
     verified: "Clover Careers - Top Employer 2026"
   },
  {
+    title: "Admin Assistant - VKB Mechanisation",
+    company: "VKB Group",
+    location: "Douglas, Northern Cape",
+    province: "Northern Cape",
+    town: "Douglas",
+    type: "On-site | 6 Days (Mon-Sat) | Permanent",
+    salary: "Market Related",
+    ref: "VKB Admin Assistant - Douglas | Closing: 15 Sept 2026",
+    desc: "VKB Group is hiring Admin Assistant for Mechanisation Branch in Douglas. Grade 12/NQF4 required. Computer literate (MS Office). Workshop/spares experience is a recommendation. Must be willing to work 6 days Mon-Sat. Duties: Handle petty cash transactions, end-of-day reconciliation & banking, process claims, receive supplier deliveries per policy, liaise with internal/external customers, maintain safety docs & manage job cards, general admin & workshop coordination. Good communication skills needed. VKB is Equal Opportunity Employer - People with Disabilities encouraged.",
+    link: "https://www.vkb.co.za/careers/",
+    verified: "✅ Verified - VKB Official Portal - No Fees - Equal Opportunity",
+    posted: "2026/08/03",
+    closing: "2026/09/15"
+  },
+ {
     title: "Electrician / Millwright",
     company: "Supreme Poultry (CBH)",
     location: "Botshabelo Processing Plant, Free State",
