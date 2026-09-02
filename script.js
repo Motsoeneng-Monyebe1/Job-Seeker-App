@@ -10,6 +10,19 @@ let jobs = [
     verified: "Clover Careers - Top Employer 2026"
   },
  {
+    title: "Electrician / Millwright",
+    company: "Supreme Poultry (CBH)",
+    location: "Botshabelo Processing Plant, Free State",
+    province: "Free State",
+    town: "Botshabelo",
+    type: "On-site, Full-time | Shift work + Standby",
+    salary: "Market Related - Permanent",
+    ref: "CBH_ELEC-28/08/2026 + Your Name Surname | Closing: 11 September 2026",
+    desc: "Supreme Poultry is hiring Electrician/Millwright at Botshabelo Plant. Requirements: Section 13 Trade Test Certificate, Category B ammonia refrigeration, 3-5 years poultry industry experience, strong electrical compliance & refrigeration knowledge. Duties: Maintain poultry processing machinery, service industrial ammonia refrigeration, troubleshoot automated equipment, urgent breakdown repairs, electrical inspections, preventive maintenance, record work done. Must work shifts, standby & overtime. Apply via HR email with reference in subject.",
+    link: "mailto:lichibase@cbh.africa?subject=CBH_ELEC-28/08/2026 - Your Name Surname",
+    verified: "✅ Verified - No Fees - Direct HR Email - Supreme Poultry Official - Equal Opportunity"
+  },
+ {
     title: "Site Administrator",
     company: "Afrimat Ash Resources",
     location: "Matla, Mpumalanga, South Africa",
