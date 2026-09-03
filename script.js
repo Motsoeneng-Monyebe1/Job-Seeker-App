@@ -10,6 +10,16 @@ let jobs = [
     verified: "Clover Careers - Top Employer 2026"
   },
  {
+    title: "UIF Skills Programme- Pick n Pay Hypermarkets",
+    company: "Pick n Pay Hypermarkets",
+    location: "South Africa",
+    type: "Learnership",
+    closing: "2026-09-30",
+    description: "Kick-start your career with Pick n Pay's UIF Skills Programmes. 6 Months programme with R2,000 stipend per month. Blended Learning (Online + In-store Practical). Requirements: Grade 12, Aged 18-40, South African citizen, Currently unemployed. Streams: MASTERCUT (Butchery), FRESHRIZE (Bakery), ALL ROUNDERS (Retail Frontline). Gain specialist butchery/bakery/retail skills and practical workplace experience.",
+    link: "https://www.weekdayjobs.com/JR105826",
+    verified: "Shared via SAJobsPortal"
+  }, 
+ {
     title: "BEE Chamber Learnership - All Fields",
     company: "BEE Chamber",
     location: "South Africa - All Provinces",
