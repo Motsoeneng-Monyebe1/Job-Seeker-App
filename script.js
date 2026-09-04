@@ -12,14 +12,16 @@ let jobs = [
  {
     title: "UIF Skills Programme- Pick n Pay Hypermarkets",
     company: "Pick n Pay Hypermarkets",
-    location: "South Africa",
-    type: "Learnership",
+    location: "South Africa - Nationwide",
+    type: "6 Months Learnership",
     closing: "2026-09-30",
-    description: "Kick-start your career with Pick n Pay's UIF Skills Programmes. 6 Months programme with R2,000 stipend per month. Blended Learning (Online + In-store Practical). Requirements: Grade 12, Aged 18-40, South African citizen, Currently unemployed. Streams: MASTERCUT (Butchery), FRESHRIZE (Bakery), ALL ROUNDERS (Retail Frontline). Gain specialist butchery/bakery/retail skills and practical workplace experience.",
-    link: "https://picknpay.wd3.myworkdayjobs.com/en-US/PNP_Careers/job/UIF-Skills-Programme--Pick-n-Pay-Hypermarkets_JR105826, 
-    verified: "Shared via myworkdayjobs"
-  }, 
- {
+    description: "Kick-start your career with Pick n Pay's UIF Skills Programmes. Gain specialist butchery, bakery and retail skills. 6 Months programme with R2,000 stipend per month. Blended Learning: Online + In-store Practical. Streams: MASTERCUT (Butchery), FRESHRIZE (Bakery), ALL ROUNDERS (Retail Frontline). Requirements: Grade 12, Aged 18-40, South African Citizen, Currently Unemployed. Documents: CV, Certified SA ID, Certified Matric Certificate.",
+    link: "https://picknpay.wd3.myworkdayjobs.com/en-US/PNP_Careers/job/UIF-Skills-Programme--Pick-n-Pay-Hypermarkets_JR105826",
+    verified: "Shared via Pick n Pay Careers",
+    stipend: "R2,000/month",
+    duration: "6 Months"
+  },
+ { 
     title: "BEE Chamber Learnership - All Fields",
     company: "BEE Chamber",
     location: "South Africa - All Provinces",
