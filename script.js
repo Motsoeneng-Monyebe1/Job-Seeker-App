@@ -8,7 +8,40 @@ let jobs = [
     description: "Clover SA (Top Employer South Africa 2026) is hiring Administrative Controller: Food Safety - Ref CLO260827-5. Department: Production. 01 Position. Job Type: Permanent. Closing Date: 03 September 2026. Apply via Clover Careers portal.",
     link: "https://www.clover.co.za/careers - Ref CLO260827-5",
     verified: "Clover Careers - Top Employer 2026"
-  }, 
+  },
+ {
+    id: "festive-millwright-2026",
+    title: "Millwright Apprenticeship (36 Months)",
+    company: "Festive - Astral Operations Limited",
+    location: "Olifantsfontein, Gauteng - Processing Plant",
+    type: "Apprenticeship - 36 Months Fixed Term",
+    closing: "2026-09-13",
+    category: "Artisan Apprenticeship",
+    description: "Festive, a division of Astral Operations Limited, aims to provide Apprentices with opportunity to obtain training, gain knowledge and acquire practical experience in transitioning from student to employee for a fixed period of 36 months at Processing Plant in Olifantsfontein. Vacancies for: Millwrights, Electricians, Fitters. Ideal candidates must be young, energetic, qualified N3 students with a passion to become an artisan.",
+    requirements: [
+     "Grade 12 (Matric) with Mathematics and Science OR Technical Matric",
+     "National Technical Certificate - N3 or higher in Millwright engineering discipline",
+     "Ambitious and dedicated - willing to use opportunities industry has to offer",
+     "Must be a team player",
+     "High energy level and action orientated",
+     "Mental alertness, analytical and problem solving skills",
+     "Pay attention to detail and conceptual skills",
+     "Must be in possession of a tool box including tools"
+   ],
+   duties: [
+     "Participate in formal training plan for the apprenticeship",
+     "Perform duties required and make reasonable progress to achieve competencies",
+     "Undertake and attend any training or assessment related to training plan",
+     "Keep logbook in possession and produce when requested",
+     "Maintain, repair & optimise plant & associated devices under guidance of qualified Artisans",
+     "Obey all workplace health and safety including dress code"
+    ],
+    link: "https://www.trending-talent.com",
+    applyLink: "https://www.trending-talent.com",
+    howToApply: "Apply online via Trendi - www.trending-talent.com - Search Festive Apprenticeship. Closing: 13 September 2026",
+    verified: true,
+    featured: true
+  },
  {
     id: "matjhabeng-meter-2026",
     title: "Meter Readers (36 Positions)",
