@@ -8,18 +8,23 @@ let jobs = [
     description: "Clover SA (Top Employer South Africa 2026) is hiring Administrative Controller: Food Safety - Ref CLO260827-5. Department: Production. 01 Position. Job Type: Permanent. Closing Date: 03 September 2026. Apply via Clover Careers portal.",
     link: "https://www.clover.co.za/careers - Ref CLO260827-5",
     verified: "Clover Careers - Top Employer 2026"
-  },
+  }, 
  {
-    title: "UIF Skills Programme- Pick n Pay Hypermarkets",
-    company: "Pick n Pay Hypermarkets",
-    location: "South Africa - Nationwide",
-    type: "6 Months Learnership",
+    id: "JR105826",
+    title: "UIF Skills Programme - Pick n Pay Hypermarkets",
+    company: "Pick n Pay",
+    location: "South Africa (Nationwide)",
+    type: "Learnership - 6 Months",
+    stipend: "R2000 per month",
     closing: "2026-09-30",
-    description: "Kick-start your career with Pick n Pay's UIF Skills Programmes. Gain specialist butchery, bakery and retail skills. 6 Months programme with R2,000 stipend per month. Blended Learning: Online + In-store Practical. Streams: MASTERCUT (Butchery), FRESHRIZE (Bakery), ALL ROUNDERS (Retail Frontline). Requirements: Grade 12, Aged 18-40, South African Citizen, Currently Unemployed. Documents: CV, Certified SA ID, Certified Matric Certificate.",
+    category: "Retail Learnership",
+    description: "Kick-start your career with Pick n Pay's UIF Skills Programmes. Gain practical workplace experience and retail skills through structured learning and on-the-job training. Duration: 6 Months. Stipend: R2,000 per month. Learning Model: Blended Learning (Online + In-store). Minimum: Grade 12, Aged 18-40, SA Citizen, Unemployed. Streams: MASTERCUT (Butchery skills), FRESHRIZE (Bakery Talent), ALL ROUNDERS (Retail Frontline). What You Will Gain: Structured learning, Practical experience, Coaching from Store Mentors, Customer service skills.",
+    requirements: ["Grade 12", "Aged 18-40 years", "South African citizen", "Currently unemployed", "Passion for food, retail and customer service", "Willing to work retail hours including weekends"],
+    documents: ["Updated CV", "Certified copy of South African ID", "Certified copy of Matric certificate"],
     link: "https://picknpay.wd3.myworkdayjobs.com/en-US/PNP_Careers/job/UIF-Skills-Programme--Pick-n-Pay-Hypermarkets_JR105826",
-    verified: "Shared via Pick n Pay Careers",
-    stipend: "R2,000/month",
-    duration: "6 Months"
+    applyLink: "https://picknpay.wd3.myworkdayjobs.com/en-US/PNP_Careers/job/UIF-Skills-Programme--Pick-n-Pay-Hypermarkets_JR105826",
+    verified: true,
+    featured: true
   },
  { 
     title: "BEE Chamber Learnership - All Fields",
