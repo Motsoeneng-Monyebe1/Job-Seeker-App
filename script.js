@@ -10,6 +10,25 @@ let jobs = [
     verified: "Clover Careers - Top Employer 2026"
   }, 
  {
+    id: "matjhabeng-meter-2026",
+    title: "Meter Readers (36 Positions)",
+    company: "Matjhabeng Municipality",
+    location: "Welkom, Free State",
+    type: "Full-time Permanent",
+    salary: "R162 156 - R184 620 p.a (Excluding benefits)",
+    postLevel: "16/15",
+    closing: "2026-09-18",
+    category: "Municipality Jobs",
+    description: "Matjhabeng Municipality invites applications for Meter Readers (36 Positions). Reading meters (Taking photos compulsory), ensuring all meters are read correctly, reporting illegal connections, handling consumer disputes. Must have ability to function under pressure.",
+    requirements: ["Grade 10", "Valid Code B driver's license will be an advantage", "Computer literacy (MS Word, Excel)", "Must be able to read and write clearly, add and subtract numbers", "Basic Knowledge of Computer", "Electrical background is an advantage", "Willing to work overtime when required"],
+    duties: ["Reading meters (Taking photos compulsory)", "Ensuring all meters are read correctly", "Recording reading of all meters listed in the reading sheet", "Providing reason for all unread meters", "Reporting illegal connections and abnormalities", "Verifying meter/s as requested", "Reporting faulty meters, leaks and pipe bursts"],
+    link: "https://matjhabeng.co.za",
+    applyLink: "https://matjhabeng.co.za",
+    howToApply: "Forward application to: The Senior Manager Human Resources, P.O Box 708 Welkom 9460 or hand deliver to Room 5, 3rd Floor, Welkom. Apply online: https://matjhabeng.co.za. Enquiries: Recruitment office @ (057) 492 1363",
+    verified: true,
+    featured: true
+  },
+ {
     id: "matjhabeng-general-2026",
     title: "General Workers (150 Positions)",
     company: "Matjhabeng Municipality",
