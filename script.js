@@ -10,6 +10,25 @@ let jobs = [
     verified: "Clover Careers - Top Employer 2026"
   }, 
  {
+    id: "matjhabeng-general-2026",
+    title: "General Workers (150 Positions)",
+    company: "Matjhabeng Municipality",
+    location: "Welkom, Free State",
+    type: "Full-time Permanent",
+    salary: "R153 384 - R159 996 p.a (Excluding benefits)",
+    postLevel: "18/17",
+    closing: "2026-09-18",
+    category: "Municipality Jobs",
+    description: "Matjhabeng Municipality invites applications for General Workers (150 Positions). Key duties: Perform general labour duties such as cleaning, digging, loading/unloading materials, and maintain municipal facilities. Operate basic tools and equipment. Follow instructions from supervisors and adhere to safety regulations.",
+    requirements: ["Grade 10", "Conversant in local languages", "Must be physically fit to perform duties", "Driver's license would be an added advantage", "Preference will be given to applicants residing within the Municipal area"],
+    duties: ["Perform general labour duties - cleaning, digging, loading/unloading", "Maintain municipal facilities", "Operate basic tools and equipment", "Follow instructions from supervisors", "Adhere to safety regulations and municipal policies"],
+    link: "https://matjhabeng.co.za",
+    applyLink: "https://matjhabeng.co.za",
+    howToApply: "Forward complete application form and comprehensive CV with certified copies of qualifications to: The Senior Manager Human Resources, P.O Box 708 Welkom 9460 or hand it to Municipal Building, Municipal Main Building, Room 5, 3rd Floor, Welkom. Or apply online via https://matjhabeng.co.za. Enquiries: (057) 492 1363",
+    verified: true,
+    featured: true
+  }, 
+ {
     id: "JR105826",
     title: "UIF Skills Programme - Pick n Pay Hypermarkets",
     company: "Pick n Pay",
