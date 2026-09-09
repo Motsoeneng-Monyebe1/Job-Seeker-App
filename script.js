@@ -11,7 +11,7 @@ let jobs = [
     link: "https://msunduzi.gov.za/",
     verified: "Verified - Msunduzi LinkedIn & Official Circular 16/2026 - 11 Sep 2026 15:00",
   },
-  {
+ {
     id: "traxtion-apprentice-diesel-fitter-2027",
     title: "Diesel Electrical Fitter Apprenticeship Programme 2027",
     company: "Traxtion",
@@ -23,7 +23,7 @@ let jobs = [
     link: "careers@traxtion.africa",
     verified: "Verified - Traxtion official traxtion.africa - 18 Sep 2026",
   },
-  {
+ {
     id: "sanbi-lowveld-isep-sayouth-2026",
     title: "Lowveld National Botanical Garden - Integrated Service Excellence Programme",
     company: "SANBI via SA Youth",
@@ -35,7 +35,7 @@ let jobs = [
     link: "https://sayouth.mobi/p/yxmkrv78/o/2141344",
     verified: "Verified Shared via SAYouth - Free 0800 72 72 72 - 18 Sep 2026",
   },
-  {
+ {
     id: "dha-cadet-learnership-2026-limpopo-x5",
     title: "Cadet Learnership Programme 2026/2027 (12 Months) - Limpopo X5 Posts",
     company: "Department of Home Affairs",
@@ -47,7 +47,7 @@ let jobs = [
     link: "https://www.dha.gov.za/",
     verified: "Verified - DPSA Circular 32 of 2026 - Official DHA - 18 Sep 2026 at 16:00",
   },
-  {
+ {
     id: "dha-cadet-learnership-2026-kzn-x6",
     title: "Cadet Learnership Programme 2026/2027 - KZN X6 Posts",
     company: "Department of Home Affairs",
@@ -59,7 +59,7 @@ let jobs = [
     link: "https://www.dha.gov.za/",
     verified: "Verified - DPSA Circular 32 of 2026 - 18 Sep 2026",
   },
-  {
+ {
     id: "dha-cadet-learnership-2026-northwest-x5",
     title: "Cadet Learnership Programme 2026/2027 - North West X5 Posts",
     company: "Department of Home Affairs",
