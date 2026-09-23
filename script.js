@@ -12,6 +12,16 @@ let jobs = [
     verified: "Verified - Msunduzi LinkedIn & Official Circular 16/2026 - 11 Sep 2026 15:00",
   },
  {
+    title: "Free State Provincial Government Bursary 2027 - FULL TIME",
+    company: "Office of the Premier - Free State",
+    location: "Free State Province (Study anywhere in SA)",
+    type: "Full Bursary - Covers All",
+    closing: "2026-11-13",
+    description: "Office of the Premier calling unemployed youth 18-35 in Free State to apply for 2027 Full-Time Bursary. Covers tuition, accommodation, textbooks, meals, transport, living allowance. For Degree/Diploma at accredited HEI. Priority: STEM, Commerce/Finance/Economics/Accounting, Psychology, Social Sciences, Aviation, Public Governance. Requirements: SA citizen, FS resident, 18-35, unemployed, household income <R600k, not receiving other gov funding. Apply online at freestateonline.fs.gov.za/bursaries/ or hand deliver to 124 Nelson Mandela Drive, Westdene, Bloemfontein. Enquiries: bursariesfs@fspremier.gov.za / 0657425935.",
+    link: "https://www.freestateonline.fs.gov.za/bursaries/",
+    verified: "Office of the Premier FS - Official - Closes 13 Nov 2026 16:00",
+  },
+ {
     id: "traxtion-apprentice-diesel-fitter-2027",
     title: "Diesel Electrical Fitter Apprenticeship Programme 2027",
     company: "Traxtion",
