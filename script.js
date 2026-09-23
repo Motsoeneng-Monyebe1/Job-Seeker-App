@@ -12,6 +12,16 @@ let jobs = [
     verified: "Verified - Msunduzi LinkedIn & Official Circular 16/2026 - 11 Sep 2026 15:00",
   },
  {
+    title: "Tourism Monitors Programme 2026/27",
+    company: "Department of Tourism and SANParks",
+    location: "South Africa - Various National Parks",
+    type: "12 Months Contract - R200 per day",
+    closing: "2026-09-30",
+    description: "The Department of Tourism and SANParks invite unemployed youth aged 18-35 with Matric/Grade 12 to apply for the Tourism Monitors Programme. 12-month programme based in National Parks including Tsitsikamma, Addo Elephant, Camdeboo, Mountain Zebra, Golden Gate, Marakele, Mapungubwe, Kruger Marula Region, Knysna, Wilderness, Table Mountain, Kgalagadi, Augrabies, Richtersveld and more. Requirements: SA Citizen, reside within 30km of park, willing to work weekends, arrange own accommodation/transport. Fitness assessment: 2.4km run and 25 push-ups. Apply via SAYouth.mobi. Upload certified ID, qualifications and proof of residence.",
+    link: "https://sayouth.mobi",
+    verified: "Department of Tourism - SANParks",
+  },
+ {
     title: "Pool Bus Driver (P14) - 20 Positions",
     company: "Maluti Bus Service",
     location: "Phuthaditjhaba / Harrismith / Bethlehem, Free State",
