@@ -12,6 +12,16 @@ let jobs = [
     verified: "Verified - Msunduzi LinkedIn & Official Circular 16/2026 - 11 Sep 2026 15:00",
   },
  {
+    title: "Pool Bus Driver (P14) - 20 Positions",
+    company: "Maluti Bus Service",
+    location: "Phuthaditjhaba / Harrismith / Bethlehem, Free State",
+    type: "Pool Driver - Training Then Pool Placement",
+    closing: "2026-10-06",
+    description: "Internal Advertisement - Maluti Bus Service is recruiting 20 Pool Bus Drivers (P14) to be trained and placed in the Company's Bus Driver Pool. This is NOT immediate permanent appointment. Successful candidates will undergo prescribed driver training and competency assessment. Appointment only when operational need arises. Location: Phuthaditjhaba, Harrismith, Bethlehem. Reports to: Operations Manager. Ref: Pool Bus Driver 22092026. Requirements: Grade 8 or equivalent, Valid Code EC / EC1 license, Valid PrDP, Min 2 years Bus/Heavy vehicle driving, good numerical and interpersonal skills, good working history. Must be able to work shifts, reliable and trustworthy, good health, willing to work between 3 areas. Application: Email CV to recruitment@malutibs.co.za. Shortlisted candidates will undergo vetting: qualifications, employment history, criminal, credit/financial, reference and security vetting.",
+    link: "mailto:recruitment@malutibs.co.za",
+    verified: "Maluti Bus Service - recruitment@malutibs.co.za - Closing: 06 Oct 2026",
+  },
+ {
     title: "Free State Provincial Government Bursary 2027 - FULL TIME",
     company: "Office of the Premier - Free State",
     location: "Free State Province (Study anywhere in SA)",
