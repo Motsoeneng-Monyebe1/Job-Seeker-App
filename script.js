@@ -70,18 +70,6 @@ let jobs = [
     verified: "Office of the Premier FS - Official - Closes 13 Nov 2026 16:00",
   },
  {
-    id: "traxtion-apprentice-diesel-fitter-2027",
-    title: "Diesel Electrical Fitter Apprenticeship Programme 2027",
-    company: "Traxtion",
-    location: "Rosslyn, Pretoria",
-    type: "Apprenticeship - 36 Months",
-    closing: "2026-09-18",
-    category: "Artisan Apprenticeship",
-    description: "Build Skills. Build Rail. Build Your Future. Matric with Mathematics, Science & English, N2 related trade subjects, preferably 18-25 years old, Mechanical or Technical Engineering / Diesel or Electrical Fitting qualification, Basic MS Office, Effective English communication.",
-    link: "careers@traxtion.africa",
-    verified: "Verified - Traxtion official traxtion.africa - 18 Sep 2026",
-  },
- {
     id: "sanbi-lowveld-isep-sayouth-2026",
     title: "Lowveld National Botanical Garden - Integrated Service Excellence Programme",
     company: "SANBI via SA Youth",
