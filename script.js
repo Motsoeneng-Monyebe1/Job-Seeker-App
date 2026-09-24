@@ -10,6 +10,16 @@ let jobs = [
     verified: "ETDP SETA Official - No Fee - R3000 Stipend",
   },
  {
+    title: "Sales Consultant - PJK - SHOPRITE SENEKAL",
+    company: "Smollan",
+    location: "Senekal, Free State",
+    type: "Sales Consultant / Field Marketer",
+    closing: "2026-10-15 - Apply ASAP (SA Youth - Posted 15 Sept)",
+    description: "Smollan is hiring Sales Consultant for PJK at Shoprite Senekal. Posted on SAYouth.mobi 15 September 2026 (9 days ago). Duties: Promote PJK products in Shoprite store, merchandising, sales, customer service, stock management. Requirements: SA Citizen 18-34, Matric/Grade 11-12, good communication, willing to work retail hours, sales experience advantageous. Apply via SA Youth.mobi - FREE, no fee. Data needed to apply.",
+    link: "https://sayouth.mobi/View/Opportunity",
+    verified: "SA Youth.mobi - Smollan - Posted 15 Sept 2026",
+  },
+ {
     title: "ECD Learnership - Community & NGO Providers",
     company: "SmartStart / Save The Children / Local ECD Centres",
     location: "Limpopo (Vhembe District included), Gauteng, KZN, WC",
