@@ -10,6 +10,16 @@ let jobs = [
     verified: "ETDP SETA Official - No Fee - R3000 Stipend",
   },
  {
+    title: "NSFAS Bursary 2027 - Applications OPEN",
+    company: "National Student Financial Aid Scheme (DHET)",
+    location: "All Public Universities & TVET Colleges - Nationwide",
+    type: "Full Bursary - Government Funded",
+    closing: "2026-10-31 - Closing 31 Oct 2026",
+    description: "NSFAS 2027 applications officially opened 18 Sept 2026 by Minister Buti Manamela. For SA citizens studying at public universities/TVET colleges in 2027. Covers full tuition, registration, accommodation, transport, living allowance and learning materials. Income threshold: R350k per year combined (R600k for disability), SASSA recipients auto-qualify. Apply FREE online only at my.nsfas.org.za - create myNSFAS account with ID, phone, email, complete info, upload documents, press SUBMIT and save reference number. Never share OTP or pay anyone. Apply early to avoid errors. Outcomes in Dec 2026.",
+    link: "https://my.nsfas.org.za",
+    verified: "NSFAS Official - Launched 18 Sept 2026 - DHET - Free Application",
+  }, 
+ {
     title: "Sales Consultant - PJK - SHOPRITE SENEKAL",
     company: "Smollan",
     location: "Senekal, Free State",
