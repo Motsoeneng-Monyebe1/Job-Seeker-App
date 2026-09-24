@@ -1,5 +1,5 @@
-let jobs = [  
-  {
+let jobs = [ 
+ {
     title: "ECD Learnership 2026 - ETDP SETA (NQF 4 & 5)",
     company: "ETDP SETA & Dept of Basic Education",
     location: "Nationwide - All Provinces",
